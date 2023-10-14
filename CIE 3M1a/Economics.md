@@ -14,6 +14,6 @@ Another crucial categorization to make in the study of economics is [[Scale Econ
 
 The backbone of most modern economies is the [[Transaction]]
 
-[[Economic Systems]] are general categories that illustrate how economies distribute and prioritise resources.
+[[Economic System]] are general categories that illustrate how economies distribute and prioritise resources.
 
 #Core

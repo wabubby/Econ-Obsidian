@@ -1,9 +1,9 @@
-This economy is centralized around a central government/authority. These systems were laid out and planned for certain goals. For these reasons, these systems have to differ from tradtional concepts. Examples
+Pure Command [[Economic System]]s as the name suggests:
 
-Centralized around a planned structure and central authority/government. Many ideas from pure command economies arise out a desire to break free from the flaws of economic system tendencies, resulting Authoritarian traits.
+- WHAT: the authority decides - authority owns resources and decides their use.
+- HOW: the authority decides - authority owns resources and decides their distribution.
+- WHOM: the authority decides - typically given depending on needs and skills.
 
-- [[Communism]]
-- [[Socialism]]
-
+These structure of these systems were always planned out before hand, and typically need a central authority to enforce. Many ideas from pure command economies arise out a desire to break free from the flaws of economic system tendencies.
 
 #System 

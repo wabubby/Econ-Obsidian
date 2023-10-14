@@ -67,27 +67,34 @@
       "query": "tag:#System  ",
       "color": {
         "a": 1,
-        "rgb": 14701233
+        "rgb": 14701188
       }
     },
     {
       "query": "tag:#Politics  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 13980499
+      }
+    },
+    {
+      "query": "tag:#PoliticalEconomics",
+      "color": {
+        "a": 1,
+        "rgb": 14701166
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.25,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 155,
-  "scale": 0.6303543636173092,
+  "scale": 1.7404978230765933,
   "close": false
 }

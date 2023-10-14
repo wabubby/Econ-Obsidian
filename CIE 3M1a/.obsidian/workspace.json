@@ -8,35 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4371b787188954ee",
+            "id": "3fa77a997c25db30",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Democracy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "351adcc93ceda693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Swaggers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5ac9cbd887266648",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -68,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "econ",
+                "query": "tag:#PoliticalEconomics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -115,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Democracy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Democracy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Democracy.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,34 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4371b787188954ee",
+  "active": "3fa77a997c25db30",
   "lastOpenFiles": [
-    "Swaggers.md",
-    "Democracy.md",
-    "Hyper Specific Terms (put em here so i can reparse).md",
-    "Pure Market Economy.md",
-    "Capitalism.md",
-    "Economic Systems.md",
-    "Pure Command Economy.md",
-    "Pure Traditional Economy.md",
-    "Stakeholder.md",
-    "Communism.md",
+    "Economic System Quirks.md",
     "Political Economy.md",
-    "Socialism.md",
+    "Communism.md",
     "Facism.md",
+    "Socialism.md",
+    "Capitalism.md",
+    "Political Economics.md",
     "Dicatorship.md",
-    "Political Systems.md",
     "Mixed Economy.md",
+    "Economic System.md",
+    "Pure Traditional Economy.md",
+    "Political System.md",
+    "Democracy.md",
+    "Pure Market Economy.md",
+    "Pure Command Economy.md",
+    "Labour - Human Resources.md",
+    "Capital.md",
+    "Money Capital.md",
+    "Swaggers.md",
+    "Hyper Specific Terms (put em here so i can reparse).md",
+    "Stakeholder.md",
     "Economics.md",
     "Entrepeneurship.md",
     "Tangible and Intangible Goods.md",
     "Goods.md",
-    "Labour - Human Resources.md",
     "Land-Natural Resources.md",
-    "Law of Increasing Relative Cost.md",
-    "Capital.md",
-    "Descriptive Statements.md",
-    "Relative Cost.md",
     "Pasted image 20231011084417.png"
   ]
 }

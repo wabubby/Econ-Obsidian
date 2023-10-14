@@ -1,8 +1,9 @@
-These systems centralize around the free market and private property. This system uses profit as an incentive for inviduals to develop technological growth and greater resource employment. 
+Pure Market [[Economic System]]s as the name suggests:
 
-Due to it's simplicity and effectiveness, almost every economy relies on a Free Market of some sort.
+- WHAT: the free market decides - ever developing markets force constant technological growth.
+- HOW: the free market decides - ever-increasing technology creates new capital and change. land and capital are privately owned.
+- WHOM: the free market decides - those with wealth.
 
-- [[Capitalism]]
-
+Profit-motive and a cut-throat economy incentivizes consumers to demand the lowest prices and highest returns. These simple rules tend toward growth and greater efficiencies thru capital technology and resource employment above all. This is not a great normative policy - some central command is usually needed to regulate policies.
 
 #System 

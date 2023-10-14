@@ -1,5 +1,9 @@
-Traditional Economies, as the name suggests, follow the production and goods of the past. Career opportunities such as entrepreneurship and natural resources are typically passed down through families.
+Traditional [[Economic System]], as the name suggests:
 
-This was the dominant system throughout much of history.
+- WHAT: produce same goods and quantities of the past.
+- HOW: skills and natural resources opportunities are passed along family lines.
+- WHOM: free market decides consumption (not super stable).
+
+The traditional economy was dominant before the industrial revolution forced them to evolve, but you can still find these economies rurally isolated communities and countries (some Midwest communities, African tribes).
 
 #System 
