@@ -1,0 +1,4 @@
+- [[Democracy]]
+- [[Dicatorship]]
+
+#Politics
