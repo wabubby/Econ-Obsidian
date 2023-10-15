@@ -1,4 +1,4 @@
-A fallacy is a [[Hypothesis]] that have been proven false but have been accepted by many people for appearing to be true. they are common roots of [[Economic Reasoning Pitfalls]]
+A fallacy is a Hypothesis that have been proven false but have been accepted by many people for appearing to be true. they are common roots of [[Economic Reasoning Pitfalls]]
 
 eg: "Trickle down economics is good and works"
 

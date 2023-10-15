@@ -10,6 +10,8 @@
 
 - **Viable Balance-of-Payments** - the equal flow of foreign import and export value and currency, [[Balance-of-Payments]].
 
+- **Environmental Sustainability** - Besides moral bases, an eroding environment diminishes natural resources and reduces the habitability of the earth.
+
 There are many more goals, but these are the main ones. Another helpful descriptor is whether they can be [[Complementary Goals]] or [[Conflicting Goals]].
 
 

@@ -4,45 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2bb79fac931b535f",
+        "id": "523564b5f5fd91ca",
         "type": "tabs",
         "children": [
           {
-            "id": "3fa77a997c25db30",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "b70346fcbed95090",
+            "id": "942dada36aff119e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economic System.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05d78ccc732842ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Economic Goals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Economic Goals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Economic Goals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Economic Goals.md"
-              }
+              "state": {}
             }
           },
           {
@@ -188,17 +157,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "05d78ccc732842ca",
+  "active": "942dada36aff119e",
   "lastOpenFiles": [
-    "Economic System.md",
     "Economic Goals.md",
+    "Factors of Production - Resources.md",
+    "Fallacy.md",
+    "Hypothesis.md",
+    "Economic System.md",
+    "Unemployment Rate.md",
+    "Swaggers.md",
     "Conflicting Goals.md",
     "Complementary Goals.md",
     "Balance-of-Payments.md",
     "Trade Surplus.md",
     "Trade Defecit.md",
     "Mixed Economy.md",
-    "Unemployment Rate.md",
     "Inflation.md",
     "Economic System Quirks.md",
     "Political Economy.md",
@@ -212,10 +185,6 @@
     "Political System.md",
     "Democracy.md",
     "Pure Market Economy.md",
-    "Pure Command Economy.md",
-    "Labour - Human Resources.md",
-    "Capital.md",
-    "Money Capital.md",
     "Pasted image 20231011084417.png"
   ]
 }
