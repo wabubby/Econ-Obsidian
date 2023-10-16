@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "523564b5f5fd91ca",
+        "id": "6250c457e99562fe",
         "type": "tabs",
         "children": [
           {
-            "id": "942dada36aff119e",
+            "id": "43b6df3f2da11ca1",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {}
             }
           }
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#PoliticalEconomics",
+                "query": "tag:#System",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6697ed14e4633627",
@@ -157,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "942dada36aff119e",
+  "active": "43b6df3f2da11ca1",
   "lastOpenFiles": [
     "Economic Goals.md",
     "Factors of Production - Resources.md",
