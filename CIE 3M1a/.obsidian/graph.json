@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#Resource",
@@ -78,10 +78,24 @@
       }
     },
     {
+      "query": "tag:#Communism",
+      "color": {
+        "a": 1,
+        "rgb": 15094097
+      }
+    },
+    {
+      "query": "tag:#Capitalism",
+      "color": {
+        "a": 1,
+        "rgb": 5605853
+      }
+    },
+    {
       "query": "tag:#PoliticalEconomics",
       "color": {
         "a": 1,
-        "rgb": 14701166
+        "rgb": 13980531
       }
     }
   ],
@@ -95,6 +109,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 155,
-  "scale": 0.45050811767579363,
+  "scale": 0.19450022690616176,
   "close": false
 }

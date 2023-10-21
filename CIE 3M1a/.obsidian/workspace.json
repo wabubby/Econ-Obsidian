@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6250c457e99562fe",
+        "id": "f0c3d11173599ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "43b6df3f2da11ca1",
+            "id": "df6ea5a215603306",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -156,18 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43b6df3f2da11ca1",
+  "active": "df6ea5a215603306",
   "lastOpenFiles": [
-    "Adam Smith.md",
-    "Wealth of Nations.md",
-    "The Invisible Hand.md",
-    "Marxism.md",
-    "Laissez-Faire.md",
     "Karl Marx.md",
+    "Communist Manifesto.md",
+    "Marxism.md",
+    "Capitalism.md",
+    "Wealth of Nations.md",
+    "Adam Smith.md",
     "Extravagance.md",
+    "Communism.md",
+    "The Invisible Hand.md",
+    "Laissez-Faire.md",
     "Economics Theorist.md",
     "Division of Labour.md",
-    "Communist Manifesto.md",
     "Economic Goals.md",
     "Factors of Production - Resources.md",
     "Fallacy.md",
@@ -182,8 +184,6 @@
     "Trade Defecit.md",
     "Mixed Economy.md",
     "Inflation.md",
-    "Economic System Quirks.md",
-    "Political Economy.md",
     "Pasted image 20231011084417.png"
   ]
 }

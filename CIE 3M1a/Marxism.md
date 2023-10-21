@@ -8,3 +8,6 @@ Here's a point form version of that:
 4. Means of Production: Collective and state ownership of production to eliiminate ownership and create equitable distribution.
 5. Communism: The transition from capitalism to communism is one the Marxism's ultimate goals.
 6. Role of Govenrment: The state must serve the interests of the ruling class and typically need a "dictatorship of the proletariat" to facilitate Communism's introduction.
+
+#Communism 
+#PoliticalEconomics 

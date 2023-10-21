@@ -5,3 +5,6 @@ He was great an combining innovative ideas into political ideologies, analyzing 
 Adam Smith primarily analyzes and advocates for classical [[Capitalism]] and it's benefits.
 
 His most famous work was the [[Wealth of Nations]].
+
+#Capitalism
+#PoliticalEconomics 

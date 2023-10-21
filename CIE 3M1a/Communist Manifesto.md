@@ -8,3 +8,6 @@ It's structure was developed with four points:
 - **Communism, the obvious answer**: Rather than doing the charade all over again, communism would be a classless society where wealth and resources are owned collectively, and no private property. Everyone would get what they need, hold hands and sing songs under the rainbow. And they all lived happily ever after.
 
 In summary, the Communsit Manifesto called workers to action to overthrow their capitalist system in favour of communism. This document was a huge historical device.
+
+#Communism 
+#PoliticalEconomics 

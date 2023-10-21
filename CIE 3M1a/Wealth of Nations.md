@@ -11,3 +11,5 @@ Written by the father of economics, [[Adam Smith]], this book is viewed like a B
 
 We're not going to be graded on the entire fucking book obivously, but those are some good principles to learn.
 
+#Capitalism
+#PoliticalEconomics 

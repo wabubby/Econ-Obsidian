@@ -6,4 +6,5 @@ Like facism, communism is another very historically significant political system
 
 Stability and a mixing of systems have cooled tensions down...
 
+#Communism
 #PoliticalEconomics 
