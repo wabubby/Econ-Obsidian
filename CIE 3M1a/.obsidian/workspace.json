@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c3d11173599ba8",
+        "id": "03ad1a7673a9fb7d",
         "type": "tabs",
         "children": [
           {
-            "id": "df6ea5a215603306",
+            "id": "65843dc80b04087b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -73,7 +75,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6697ed14e4633627",
@@ -156,8 +159,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df6ea5a215603306",
+  "active": "65843dc80b04087b",
   "lastOpenFiles": [
+    "Budgeting Challenges.md",
+    "The Budgeting Process.md",
+    "Savings.md",
+    "Budgeting.md",
+    "Investments.md",
+    "Financial Goals.md",
+    "Personal Finances.md",
+    "Financial Planning.md",
+    "Economic Career Opportunities.md",
+    "Variable Expenses.md",
+    "Expenses.md",
+    "Fixed Expenses.md",
+    "Income.md",
     "Capitalism.md",
     "Karl Marx.md",
     "Communist Manifesto.md",
@@ -171,19 +187,6 @@
     "Economics Theorist.md",
     "Division of Labour.md",
     "Economic Goals.md",
-    "Factors of Production - Resources.md",
-    "Fallacy.md",
-    "Hypothesis.md",
-    "Economic System.md",
-    "Unemployment Rate.md",
-    "Swaggers.md",
-    "Conflicting Goals.md",
-    "Complementary Goals.md",
-    "Balance-of-Payments.md",
-    "Trade Surplus.md",
-    "Trade Defecit.md",
-    "Mixed Economy.md",
-    "Inflation.md",
     "Pasted image 20231011084417.png"
   ]
 }
