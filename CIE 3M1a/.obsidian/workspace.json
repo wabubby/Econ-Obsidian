@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "03ad1a7673a9fb7d",
+        "id": "f0c3d11173599ba8",
         "type": "tabs",
         "children": [
           {
-            "id": "65843dc80b04087b",
+            "id": "df6ea5a215603306",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           }
         ]
@@ -75,8 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6697ed14e4633627",
@@ -159,21 +156,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "65843dc80b04087b",
+  "active": "df6ea5a215603306",
   "lastOpenFiles": [
-    "Budgeting Challenges.md",
+    "Variable Expenses.md",
     "The Budgeting Process.md",
     "Savings.md",
-    "Budgeting.md",
-    "Investments.md",
-    "Financial Goals.md",
     "Personal Finances.md",
-    "Financial Planning.md",
-    "Economic Career Opportunities.md",
-    "Variable Expenses.md",
-    "Expenses.md",
-    "Fixed Expenses.md",
+    "Investments.md",
     "Income.md",
+    "Fixed Expenses.md",
+    "Financial Planning.md",
+    "Financial Goals.md",
+    "Expenses.md",
+    "Budgeting.md",
+    "Budgeting Challenges.md",
     "Capitalism.md",
     "Karl Marx.md",
     "Communist Manifesto.md",
@@ -187,6 +183,7 @@
     "Economics Theorist.md",
     "Division of Labour.md",
     "Economic Goals.md",
+    "Factors of Production - Resources.md",
     "Pasted image 20231011084417.png"
   ]
 }
