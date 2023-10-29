@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f0c3d11173599ba8",
+        "id": "59f1a94d4920a0b2",
         "type": "tabs",
         "children": [
           {
-            "id": "df6ea5a215603306",
+            "id": "8d99e6093ae64e74",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Balance-of-Payments.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Balance-of-Payments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Balance-of-Payments.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Balance-of-Payments.md"
+              }
             }
           },
           {
@@ -156,8 +164,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df6ea5a215603306",
+  "active": "8d99e6093ae64e74",
   "lastOpenFiles": [
+    "Adam Smith.md",
     "Variable Expenses.md",
     "The Budgeting Process.md",
     "Savings.md",
@@ -175,7 +184,6 @@
     "Communist Manifesto.md",
     "Marxism.md",
     "Wealth of Nations.md",
-    "Adam Smith.md",
     "Extravagance.md",
     "Communism.md",
     "The Invisible Hand.md",
