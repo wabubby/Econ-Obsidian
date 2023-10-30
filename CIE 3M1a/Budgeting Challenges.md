@@ -12,3 +12,5 @@
 	- Inflexibility
 	- too many goals -> emotional stress
 	- **Sol.** Periodic Re-evaluation
+
+#PersonalFinances

@@ -7,3 +7,5 @@
 	2. perhaps you are overspending.
 
 [[Budgeting Challenges]]
+
+#PersonalFinances

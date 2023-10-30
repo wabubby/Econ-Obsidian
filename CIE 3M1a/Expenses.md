@@ -5,3 +5,5 @@ One will need to balance Wants and Needs, to fulfill a moderate portion of psych
 There are two types of expenses:
 - [[Fixed Expenses]]
 - [[Variable Expenses]]
+
+#PersonalFinances

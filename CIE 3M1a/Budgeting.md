@@ -6,3 +6,6 @@ Budgeting aids in the refinement of income allocation.
 Most budgets take the form of lists, showing income sources and expenses in a table.
 
 [[The Budgeting Process]] is the creation process of budgets.
+
+
+#PersonalFinances

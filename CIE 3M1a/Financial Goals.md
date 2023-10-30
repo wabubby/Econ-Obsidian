@@ -7,3 +7,5 @@ Best arranged by temporal value and scheduling:
 	- I want to save up for a car to drive to uni and work.
 - **Long Term**: >12 months
 	- I want to afford uni tuitions for three children by 2030
+
+#PersonalFinances

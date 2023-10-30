@@ -6,3 +6,5 @@ costs that fluctuate temporally based on a number of variables:
 - etc.
 
 these expenses are harder to track. Sometimes wants with variables expenses have to be cut down to make room for others.
+
+#PersonalFinances
