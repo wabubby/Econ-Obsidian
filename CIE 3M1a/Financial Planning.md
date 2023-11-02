@@ -1,6 +1,7 @@
 The process of wisely managing [[Personal Finances]] to achieve [[Financial Goals]].
 - [[Budgeting]]
 - Setting financial goals
+- [[Spending]]
 
 The benefits of financially planning are obvious:
 - secure and shape your future
