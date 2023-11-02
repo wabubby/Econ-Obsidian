@@ -11,3 +11,5 @@ TL;DR: One guy doing the entire process can maybe make a single pin a day.
 But by dividing and speciailizing the labour into more abstractly unseen branches, 10 people can make 48 000 pins a day. Each person would contribute 4800 pins of value to the pipeline!
 
 Smith cites this fact as one of the major reasons for wealth differences between nations.
+
+#Capitalism 

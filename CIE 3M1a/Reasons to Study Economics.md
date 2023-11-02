@@ -10,3 +10,4 @@ Here are some reasons to study [[Economics]]
 4. development of analytical and critical thinking skills
 5. [[Economic Career Opportunities]]
 
+#SubCore 

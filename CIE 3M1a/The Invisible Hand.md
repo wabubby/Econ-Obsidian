@@ -5,3 +5,5 @@ The invisible hand is a metaphor for the pattern of changes in free market econo
 	1. competition is the root of supply and demand.
 3. **Competition** forces businesses to make more full employment and efficiencies.
 4. The invisible hand spurs net positive gain in society.
+
+#Capitalism 

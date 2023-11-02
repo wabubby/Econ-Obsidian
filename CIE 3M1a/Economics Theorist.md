@@ -4,3 +4,5 @@
 - Marx completely critiques this idea, citing markets as the cause for inevitable class struggle and suffering. He advocates for shared wealth and social-interest.
 
 We can cite the current suffering of today's economies as a result of not adopting to either extreme.
+
+#PoliticalEconomics 

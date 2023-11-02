@@ -18,12 +18,50 @@
             }
           },
           {
-            "id": "cadedf28698a2a6d",
+            "id": "a561d2fb8ef42f04",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Credit Score.md",
+                "file": "Financial Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0888c0e426c6f08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afdec0fb67941653",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Investments.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "105b57cc811d7d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,32 +211,32 @@
   },
   "active": "8d99e6093ae64e74",
   "lastOpenFiles": [
+    "Financial Planning.md",
+    "Financial Terms.md",
+    "Investments.md",
+    "GIC.md",
+    "Savings.md",
+    "Bonds.md",
+    "Mutual Funds.md",
+    "Reasons to Study Economics.md",
+    "Economic Career Opportunities.md",
+    "Scientific Method.md",
+    "Social Science.md",
+    "Economics Theorist.md",
+    "Laissez-Faire.md",
+    "The Invisible Hand.md",
+    "Division of Labour.md",
+    "Extravagance.md",
+    "RRSPS.md",
+    "Stocks.md",
+    "TFSA.md",
+    "Expenses.md",
     "Spending.md",
     "Credit Score.md",
     "Leases.md",
     "Loans.md",
     "Credit.md",
     "Cash.md",
-    "Overdraft.md",
-    "Cash Or Credit.md",
-    "Expenses.md",
-    "Financial Planning.md",
-    "Financial Goals.md",
-    "Balance-of-Payments.md",
-    "Adam Smith.md",
-    "Variable Expenses.md",
-    "The Budgeting Process.md",
-    "Savings.md",
-    "Personal Finances.md",
-    "Investments.md",
-    "Income.md",
-    "Fixed Expenses.md",
-    "Budgeting.md",
-    "Budgeting Challenges.md",
-    "Capitalism.md",
-    "Karl Marx.md",
-    "Communist Manifesto.md",
-    "Marxism.md",
     "Pasted image 20231011084417.png"
   ]
 }
