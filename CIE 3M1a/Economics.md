@@ -16,4 +16,6 @@ The backbone of most modern economies is the [[Transaction]]
 
 [[Economic System]] are general categories that illustrate how economies distribute and prioritise resources.
 
+Another way of considering economic flow is in terms of [[Supply and Demand]].
+
 #Core
