@@ -16,6 +16,56 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "a561d2fb8ef42f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Planning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0888c0e426c6f08c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Financial Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afdec0fb67941653",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Investments.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "105b57cc811d7d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -161,19 +211,18 @@
   },
   "active": "8d99e6093ae64e74",
   "lastOpenFiles": [
-    "Market Equilibrium.md",
-    "Demand & Supply External Factors.md",
-    "Demand Curve.md",
-    "Supply Curve.md",
-    "Demand.md",
     "Supply.md",
-    "Supply and Demand Curves.md",
     "Supply and Demand.md",
-    "Market.md",
-    "Price Expectations.md",
+    "Supply and Demand Curves.md",
+    "Supply Curve.md",
     "Substitution.md",
+    "Price Expectations.md",
+    "Market.md",
+    "Market Equilibrium.md",
+    "Demand.md",
     "Demand Schedules.md",
-    "Economics.md",
+    "Demand Curve.md",
+    "Demand & Supply External Factors.md",
     "Financial Planning.md",
     "Financial Terms.md",
     "Investments.md",
@@ -187,6 +236,7 @@
     "Social Science.md",
     "Economics Theorist.md",
     "Laissez-Faire.md",
+    "The Invisible Hand.md",
     "Pasted image 20231011084417.png"
   ]
 }
