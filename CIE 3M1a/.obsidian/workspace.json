@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economic Models.md",
+                "file": "Financial Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,24 +56,12 @@
             }
           },
           {
-            "id": "26c09688fdfb440c",
+            "id": "105b57cc811d7d35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stocks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3e56abed6e4747dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RRSPS.md",
+                "file": "GIC.md",
                 "mode": "source",
                 "source": false
               }
@@ -137,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6697ed14e4633627",
@@ -222,19 +211,6 @@
   },
   "active": "8d99e6093ae64e74",
   "lastOpenFiles": [
-    "Economic Models.md",
-    "Social Science Method.md",
-    "Scientific Method.md",
-    "Social Science.md",
-    "Economics.md",
-    "Personal Finances.md",
-    "Financial Planning.md",
-    "Financial Terms.md",
-    "Investments.md",
-    "Stocks.md",
-    "RRSPS.md",
-    "GIC.md",
-    "Bonds.md",
     "Supply.md",
     "Supply and Demand.md",
     "Supply and Demand Curves.md",
@@ -247,7 +223,20 @@
     "Demand Schedules.md",
     "Demand Curve.md",
     "Demand & Supply External Factors.md",
+    "Financial Planning.md",
+    "Financial Terms.md",
+    "Investments.md",
+    "GIC.md",
     "Savings.md",
+    "Bonds.md",
+    "Mutual Funds.md",
+    "Reasons to Study Economics.md",
+    "Economic Career Opportunities.md",
+    "Scientific Method.md",
+    "Social Science.md",
+    "Economics Theorist.md",
+    "Laissez-Faire.md",
+    "The Invisible Hand.md",
     "Pasted image 20231011084417.png"
   ]
 }
