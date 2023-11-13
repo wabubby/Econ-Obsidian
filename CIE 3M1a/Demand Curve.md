@@ -1,2 +1,5 @@
-typically a linear negative line, showing price as a function of demand.
-- [[Demand]] - demand inversely proportional with price
+The expression of a [[Schedule|Demand Schedule]] on a graph.
+
+negative slope displays the Law of Demand.
+
+#Market 

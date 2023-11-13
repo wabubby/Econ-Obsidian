@@ -1,4 +1,7 @@
-typically a linear positive line, showing price as a function of supply.
-- [[Supply]] - supply proportional with cost
+The expression of a [[Schedule|Supply Schedule]] on a graph.
+
+positive slope displays law of [[Supply]].
 
 Like law of demand, is geometric (manufacturers exponentially inclined to increase supply), but this course ignores that.
+
+#Market 

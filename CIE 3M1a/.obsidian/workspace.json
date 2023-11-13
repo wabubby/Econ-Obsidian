@@ -8,63 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8d99e6093ae64e74",
+            "id": "df57b51e7dfe3be1",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
               "pinned": true
-            }
-          },
-          {
-            "id": "a561d2fb8ef42f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Planning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0888c0e426c6f08c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Financial Terms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afdec0fb67941653",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Investments.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "105b57cc811d7d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GIC.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -125,8 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6697ed14e4633627",
@@ -209,34 +158,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d99e6093ae64e74",
+  "active": "df57b51e7dfe3be1",
   "lastOpenFiles": [
-    "Supply.md",
-    "Supply and Demand.md",
+    "Supply and Demand Curve.md",
+    "Supply Determinant.md",
+    "Schedule.md",
+    "Quantity vs Change in Supply-Demand.md",
+    "Pasted image 20231109090921.png",
+    "Pasted image 20231109090837.png",
+    "Market Curve.md",
+    "Demand Determinant.md",
     "Supply and Demand Curves.md",
-    "Supply Curve.md",
     "Substitution.md",
     "Price Expectations.md",
-    "Market.md",
-    "Market Equilibrium.md",
-    "Demand.md",
     "Demand Schedules.md",
-    "Demand Curve.md",
     "Demand & Supply External Factors.md",
+    "Demand.md",
+    "Supply.md",
+    "Market Equilibrium.md",
+    "Pasted image 20231011084417.png",
+    "Demand Curve.md",
+    "Demand Schedule.md",
+    "Supply Schedule.md",
+    "Supply Curve.md",
+    "Market.md",
+    "Supply and Demand.md",
+    "Economics.md",
     "Financial Planning.md",
     "Financial Terms.md",
     "Investments.md",
-    "GIC.md",
-    "Savings.md",
-    "Bonds.md",
-    "Mutual Funds.md",
-    "Reasons to Study Economics.md",
-    "Economic Career Opportunities.md",
-    "Scientific Method.md",
-    "Social Science.md",
-    "Economics Theorist.md",
-    "Laissez-Faire.md",
-    "The Invisible Hand.md",
-    "Pasted image 20231011084417.png"
+    "GIC.md"
   ]
 }
