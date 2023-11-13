@@ -118,13 +118,6 @@
         "a": 1,
         "rgb": 4106348
       }
-    },
-    {
-      "query": "tag:#Market",
-      "color": {
-        "a": 1,
-        "rgb": 7968830
-      }
     }
   ],
   "collapse-display": true,
@@ -137,11 +130,6 @@
   "repelStrength": 9.0625,
   "linkStrength": 0.979166666666667,
   "linkDistance": 96,
-<<<<<<< Updated upstream
   "scale": 0.81525452534244,
   "close": true
-=======
-  "scale": 0.8854989543150699,
-  "close": false
->>>>>>> Stashed changes
 }
