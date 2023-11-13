@@ -5,4 +5,4 @@ Terms used commonly in the discussion of [[Personal Finances]].
 	- **simple interest** - gain based on principle
 	- **compound interest** - interest compounds each installment
 
-#FinancialTerms
+#PersonalFinances 
