@@ -9,7 +9,7 @@ determinants beyond ceteris paribus affecting [[Supply]].
 	- **Environment**
 		- Geographical weather conditions can greatly affect production
 		- primarily agriculture
-- **Price of Substitutes**
+- **Price of Substitutes Products**
 - **Producer Expectations**
 	- producers want to take advantage of price peaks
 	- create artificial scarcity, often fufilling those prophecies
