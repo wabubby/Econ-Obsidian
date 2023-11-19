@@ -11,4 +11,4 @@ Sellers will decrease supply for price decreases.
 
 Law of Supply modeled with the [[Supply Curve]].
 
-#Market 
+#Supply 

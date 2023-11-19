@@ -15,5 +15,4 @@ determinants beyond ceteris paribus affecting [[Demand]].
 		1. create drastic changes in demand
 	2. create demand scarcity (reducing the price), ironically fulfilling those prophecies
 
-
-#Market 
+#Demand

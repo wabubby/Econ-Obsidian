@@ -1,4 +1,4 @@
-The resting **point** of the market as the intersection between the [[Supply and Demand Curve]].
+The resting **point** of the market as the intersection between the [[Supply and Demand]] curves.
 
 The Equilibrium displays 
 - equilibrium price aka market clearing price, P<sub>E</sub>

@@ -15,4 +15,4 @@ determinants beyond ceteris paribus affecting [[Supply]].
 	- create artificial scarcity, often fufilling those prophecies
 		- i hope no organizations take advantage of this
 
-#Market 
+#Supply 

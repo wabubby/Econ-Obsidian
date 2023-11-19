@@ -4,4 +4,4 @@ positive slope displays law of [[Supply]].
 
 Like law of demand, is geometric (manufacturers exponentially inclined to increase supply), but this course ignores that.
 
-#Market 
+#Supply 

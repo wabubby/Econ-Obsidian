@@ -1,4 +1,4 @@
-an important concept in the discussion of [[Supply]] and  [[Demand]].
+an important concept in the discussion of [[Supply and Demand]]
 
 - Changes in Quantity Demanded indicate a shift along the Demand Curve/Line
 	- ![[Pasted image 20231109090837.png]]

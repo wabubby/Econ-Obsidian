@@ -10,4 +10,4 @@ the relationship of
 
 Law of Demand illustrated with [[Demand Curve]].
 
-#Market 
+#Demand
