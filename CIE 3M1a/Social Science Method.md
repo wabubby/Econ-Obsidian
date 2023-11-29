@@ -13,7 +13,7 @@
 			1. collect and typically display data
 3. Explanation
 	1. Create a hypothesis
-		1. **Model Building**: [[Economic Models]] simplify the problem thru assumptions - impossible to model the real world
+		1. **Model Building**: [[Economic Model]] simplify the problem thru assumptions - impossible to model the real world
 		2. display these assumptions
 			1. the price of the oranges is the only influence of buying
 			2. ppl buy oranges to get best possible purchase satisfaction and no other reason

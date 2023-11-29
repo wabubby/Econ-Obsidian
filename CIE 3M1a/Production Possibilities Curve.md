@@ -1,4 +1,4 @@
-The Production Possibilities Curve is an [[Economic Models]] that very simply shows the relationship between the production of two goods, with each being displayed per axis.
+The Production Possibilities Curve is an [[Economic Model]] that very simply shows the relationship between the production of two goods, with each being displayed per axis.
 
 The Curve, or [[Frontier]], is the most efficient and effective use or resources - 
 productive efficiency. The curve measures each product's [[Relative Cost]] against one another.

@@ -1,0 +1,1 @@
+The money a firm makes from it sales.
