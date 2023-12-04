@@ -5,3 +5,5 @@ least one resource (ex. Labour, fuel, raw materials)
 
 **Long Run** - when the firm can adjust both its fixed and variable costs to
 increase maximum capacity
+
+#Production 

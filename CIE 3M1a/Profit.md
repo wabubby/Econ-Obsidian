@@ -1,1 +1,1 @@
-[[Firm Revenue]] - [[Cost]]
+[[Revenue]] - [[Cost]]

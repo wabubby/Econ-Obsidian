@@ -4,3 +4,5 @@ Some determinants:
 - workforce
 - quantity and quality of resource
 - plant organization / ergonomics
+
+#Production 

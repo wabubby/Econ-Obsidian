@@ -15,28 +15,14 @@
       }
     },
     {
-      "query": "tag:#Core  ",
+      "query": "tag:#Core",
       "color": {
         "a": 1,
         "rgb": 8115029
       }
     },
     {
-      "query": "tag:#Branch",
-      "color": {
-        "a": 1,
-        "rgb": 12044593
-      }
-    },
-    {
-      "query": "tag:#ProductionPossibilites",
-      "color": {
-        "a": 1,
-        "rgb": 4971972
-      }
-    },
-    {
-      "query": "tag:#Pitfalls",
+      "query": "tag:#Resource",
       "color": {
         "a": 1,
         "rgb": 12044593
@@ -50,28 +36,42 @@
       }
     },
     {
+      "query": "tag:#Branch",
+      "color": {
+        "a": 1,
+        "rgb": 12044593
+      }
+    },
+    {
+      "query": "tag:#Pitfalls",
+      "color": {
+        "a": 1,
+        "rgb": 12044593
+      }
+    },
+    {
       "query": "tag:#Models",
       "color": {
         "a": 1,
-        "rgb": 4632460
+        "rgb": 4632425
       }
     },
     {
       "query": "tag:#PPC",
       "color": {
         "a": 1,
-        "rgb": 5087923
+        "rgb": 4638898
       }
     },
     {
-      "query": "tag:#System  ",
+      "query": "tag:#System",
       "color": {
         "a": 1,
         "rgb": 14701188
       }
     },
     {
-      "query": "tag:#Politics  ",
+      "query": "tag:#Politics",
       "color": {
         "a": 1,
         "rgb": 13980499
@@ -102,63 +102,70 @@
       "query": "tag:#PersonalFinances",
       "color": {
         "a": 1,
-        "rgb": 3902573
+        "rgb": 11291327
       }
     },
     {
       "query": "tag:#Spending",
       "color": {
         "a": 1,
-        "rgb": 3900300
+        "rgb": 12139634
       }
     },
     {
-      "query": "tag:#Investment  ",
+      "query": "tag:#Investment",
       "color": {
         "a": 1,
-        "rgb": 4106348
+        "rgb": 7948247
       }
     },
     {
       "query": "tag:#Market",
       "color": {
         "a": 1,
-        "rgb": 5201584
-      }
-    },
-    {
-      "query": "tag:#MarketIntervention",
-      "color": {
-        "a": 1,
-        "rgb": 4951220
+        "rgb": 5283287
       }
     },
     {
       "query": "tag:#Supply",
       "color": {
         "a": 1,
-        "rgb": 4220812
+        "rgb": 4827028
       }
     },
     {
       "query": "tag:#Demand",
       "color": {
         "a": 1,
-        "rgb": 6506139
+        "rgb": 6120369
       }
     },
     {
-      "query": "tag:#Terms",
+      "query": "tag:#MarketIntervention",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 9391028
       }
     },
     {
-      "query": "tag:#Resource",
+      "query": "tag:#Firm",
       "color": {
         "a": 1,
-        "rgb": 12044593
+        "rgb": 14714399
+      }
+    },
+    {
+      "query": "tag:#Production",
+      "color": {
+        "a": 1,
+        "rgb": 12687141
+      }
+    },
+    {
+      "query": "tag:#MarketRegulation",
+      "color": {
+        "a": 1,
+        "rgb": 14049055
       }
     }
   ],
@@ -172,6 +179,6 @@
   "repelStrength": 11.25,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.16348370567221227,
+  "scale": 0.08317427835928415,
   "close": false
 }
