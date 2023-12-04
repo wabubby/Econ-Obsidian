@@ -137,7 +137,7 @@
       "query": "tag:#Demand",
       "color": {
         "a": 1,
-        "rgb": 6120369
+        "rgb": 6838683
       }
     },
     {
@@ -169,7 +169,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.5,
   "nodeSizeMultiplier": 1.01875,
@@ -179,6 +179,6 @@
   "repelStrength": 11.25,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.16348370567222478,
-  "close": false
+  "scale": 0.1637766604442611,
+  "close": true
 }

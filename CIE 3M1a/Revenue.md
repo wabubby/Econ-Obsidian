@@ -1,9 +1,8 @@
-The **total** money capital **producers** earn (not to be confused with profit).
+Refers to the total money capital a firm receives from it's sale.
 
 In terms of [[Supply and Demand]], 
-Revenue = Q<sub>D</sub> * P
+Total Revenue = Q<sub>D</sub> * P
 
 Equilibrium Revenue is represented on a Market Curve by the area of equilibrium point.
-![[Pasted image 20231119132130.png]]
 
 #Market 
