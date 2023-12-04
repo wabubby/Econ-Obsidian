@@ -9,6 +9,4 @@ Sellers will decrease supply for price decreases.
 
 !like demand, do not confused quantity supplied with supply.
 
-Law of Supply modeled with the [[Supply Curve]].
-
 #Supply 

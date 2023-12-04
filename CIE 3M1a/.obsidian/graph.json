@@ -5,13 +5,13 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Resource",
+      "query": "tag:#Unit",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 16777215
       }
     },
     {
@@ -25,7 +25,7 @@
       "query": "tag:#Branch",
       "color": {
         "a": 1,
-        "rgb": 13991737
+        "rgb": 14192684
       }
     },
     {
@@ -39,14 +39,14 @@
       "query": "tag:#Pitfalls",
       "color": {
         "a": 1,
-        "rgb": 14860619
+        "rgb": 12369453
       }
     },
     {
       "query": "tag:#SubCore",
       "color": {
         "a": 1,
-        "rgb": 4219707
+        "rgb": 4815427
       }
     },
     {
@@ -137,14 +137,14 @@
       "query": "tag:#Supply",
       "color": {
         "a": 1,
-        "rgb": 4226444
+        "rgb": 4220812
       }
     },
     {
       "query": "tag:#Demand",
       "color": {
         "a": 1,
-        "rgb": 10176152
+        "rgb": 6506139
       }
     },
     {
@@ -152,6 +152,13 @@
       "color": {
         "a": 1,
         "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#Resource",
+      "color": {
+        "a": 1,
+        "rgb": 14965818
       }
     }
   ],
@@ -165,6 +172,6 @@
   "repelStrength": 11.25,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.46698009451856753,
+  "scale": 0.22920135941751177,
   "close": false
 }

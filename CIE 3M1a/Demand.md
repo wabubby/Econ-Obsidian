@@ -6,8 +6,4 @@ the relationship of
 - inversely proportional to price
 - proportional for need/want
 
-!DO NOT CONFUSE **DEMAND** WITH **QUANTITY OF DEMAND**!
-
-Law of Demand illustrated with [[Demand Curve]].
-
 #Demand

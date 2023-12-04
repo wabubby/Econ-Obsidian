@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df57b51e7dfe3be1",
+            "id": "c1c4463128903ba3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -18,12 +18,48 @@
             }
           },
           {
-            "id": "83495f489e2707b3",
+            "id": "88818ca57f3c2706",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capital Intensive Production.md",
+                "file": "Demand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a21c9cd9e11a7e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b275f6c279b9d260",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demand Curve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90a38a21a5686022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Demand Curve.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,8 +123,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6697ed14e4633627",
@@ -171,35 +206,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df57b51e7dfe3be1",
+  "active": "c1c4463128903ba3",
   "lastOpenFiles": [
-    "Capital Intensive Production.md",
-    "Production Method.md",
-    "Labour Intensive Production Method.md",
-    "Production Cost Time Periods.md",
-    "Production.md",
-    "Productivity.md",
-    "Firm Theory.md",
-    "Firm Revenue.md",
-    "Profit.md",
-    "Corporation.md",
-    "Partnership.md",
-    "Sole Proprietorship.md",
-    "Government Enterprise.md",
-    "Co-operative.md",
-    "Firm.md",
-    "SD Revenue.md",
-    "Cost.md",
-    "Demand Elasticity Determinants.md",
+    "Demand.md",
+    "Demand Curve.md",
+    "Supply.md",
+    "Supply and Demand.md",
+    "Supply and Demand Curve.md",
+    "Economic Decision Making.md",
+    "What is Economics.md",
+    "Social Science.md",
+    "Economic Theory.md",
     "Economic Model.md",
-    "Factors of Production - Resources.md",
-    "Minimum Wage.md",
-    "Subsidies and Quotas.md",
-    "Supply Elasticity Determinants.md",
-    "Economic System Quirks.md",
-    "Terms.md",
+    "Personal Finances.md",
+    "Economic System.md",
+    "Mixed Economy.md",
+    "Economics Theorist.md",
+    "Economic Decision Terms.md",
+    "Expenses.md",
+    "Spending.md",
+    "Goods.md",
+    "Ethical Economics.md",
+    "Economic Reasoning Pitfalls.md",
+    "Economic Growth & Decline.md",
+    "Analytical(Positive) Economics.md",
+    "Economic Graphing.md",
+    "Economic Scale.md",
+    "Endless Needs and Wants.md",
+    "Firm.md",
     "Pasted image 20231119170716.png",
-    "Market Equilibrium.md",
     "Pasted image 20231119164826.png",
     "Pasted image 20231119143948.png",
     "Pasted image 20231119142555.png",

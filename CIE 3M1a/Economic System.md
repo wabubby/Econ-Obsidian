@@ -1,3 +1,5 @@
+general categories that illustrate how economies distribute and prioritise resources.
+
 Due to their intrinsically complex nature, economic systems are hard to describe. By boiling it down, we can determine economic systems as a guideline for production:
 
 - **What** to produce?
@@ -27,4 +29,4 @@ But how do economies come to settle on these arbitrary answers? There are hundre
 - culture, climate, available resources, competition, history, etc. 
 these factors tend to centrally funnel into a Political System that generally decides the answers to these questions. The study of the relationships between political systems and economies is [[Political Economics]].
 
-#System
+#System #Unit

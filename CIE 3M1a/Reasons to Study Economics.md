@@ -1,4 +1,4 @@
-Here are some reasons to study [[Economics]]
+Here are some reasons to study [[What is Economics]]
 
 1. Attain a more objective view on economic issues and topics.
 	1. exchange rates

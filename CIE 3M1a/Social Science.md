@@ -1,5 +1,7 @@
 Social sciences attempts to understand to the human condition and the world we live in. eg. history, geography, psychology. All of these use the [[Scientific Method]]
 
+Due to it's studying of individuals and groups, economics is a social science. good economists use the scientitic method to come to their conclusions. It may surprise you, but Economcs is a fairly recent science, emerging an odd 200 years ago.
+
 1. Observation: select an economic question to be answered: 
 	1. Observation: People buy oranges in different amounts throughout the year.
 	2. Question: "Why do people buy oranges more some weeks than others?"

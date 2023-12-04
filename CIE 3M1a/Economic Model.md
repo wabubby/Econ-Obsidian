@@ -10,4 +10,4 @@ There are two simplifications in Economic Model building:
 - [[Rational Self-Interest]]
 - [[Rational Economic Decision-Making]]
 
-#Models 
+#Models #Unit
