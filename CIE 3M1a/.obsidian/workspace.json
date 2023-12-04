@@ -18,43 +18,7 @@
             }
           },
           {
-            "id": "0e425736388c7855",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sole Proprietorship.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40dd5a5a3d9e7e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Co-operative.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "83d48258d646ff61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Corporation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4344bdad9bd3dbcd",
+            "id": "088caa1d6f6c9258",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -66,7 +30,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Demand",
+                "query": "stock",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -141,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corporation.md",
+                "file": "Government Enterprise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Corporation.md",
+                "file": "Government Enterprise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Corporation.md"
+                "file": "Government Enterprise.md"
               }
             }
           },
@@ -204,27 +168,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "83d48258d646ff61",
+  "active": "088caa1d6f6c9258",
   "lastOpenFiles": [
+    "Government Enterprise.md",
+    "Crown Corporations.md",
+    "Liquidation.md",
+    "Unique Corporate Financing.md",
+    "Short vs Long Run.md",
+    "Co-operative.md",
+    "Stocks.md",
+    "Corporation.md",
+    "Marginal Costs.md",
+    "Fixed vs Variable Expenditure.md",
+    "Firm.md",
     "Sole Proprietorship.md",
     "Partnership.md",
-    "Co-operative.md",
-    "Corporation.md",
-    "Government Enterprise.md",
     "Liability.md",
     "GDP.md",
-    "Firm.md",
-    "Fixed vs Variable Expenditure.md",
-    "Short vs Long Run.md",
-    "Marginal Costs.md",
     "Revenue.md",
     "Cost.md",
     "Expenditure.md",
@@ -236,10 +204,6 @@
     "Expenses.md",
     "Firm Revenue.md",
     "Production, Firms, and the Market.md",
-    "Production.md",
-    "Production Cost Time Periods.md",
-    "Productivity.md",
-    "Production Method.md",
     "Pasted image 20231119170716.png",
     "Pasted image 20231119164826.png",
     "Pasted image 20231119143948.png",

@@ -1,1 +1,3 @@
-[[Cost]]s made at the margin, marginal decision making.
+[[Cost]] changes made at the margin; marginal decision making.
+
+#Market 

@@ -151,14 +151,14 @@
       "query": "tag:#Firm",
       "color": {
         "a": 1,
-        "rgb": 14714399
+        "rgb": 13460781
       }
     },
     {
       "query": "tag:#Production",
       "color": {
         "a": 1,
-        "rgb": 12687141
+        "rgb": 13538092
       }
     },
     {
@@ -175,10 +175,10 @@
   "nodeSizeMultiplier": 1.01875,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.432291666666667,
-  "repelStrength": 11.25,
+  "centerStrength": 0.390625,
+  "repelStrength": 10.625,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.1637766604442611,
-  "close": true
+  "scale": 0.8854989543150468,
+  "close": false
 }
