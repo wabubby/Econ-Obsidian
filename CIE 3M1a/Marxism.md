@@ -1,4 +1,4 @@
-The [[Political Ideology]] that societal change is driven by historical materialism and class structures. Eventually, every society should tend towards Communism for these reasons.
+The Political Ideology that societal change is driven by historical materialism and class structures. Eventually, every society should tend towards Communism for these reasons.
 
 Here's a point form version of that:
 

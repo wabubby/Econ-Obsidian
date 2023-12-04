@@ -1,4 +1,4 @@
-Theorize the structure of greater scope [[Economic System]]s.
+Theorize the structure of greater scope of [[Economic System]]s.
 
 [[Karl Marx]] and [[Adam Smith]] are two of the most influential eocnomics theorist to have ever lived. The difference in their arguments highlights the normative, ever-shifting nature of economies as a social science.
 
