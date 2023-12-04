@@ -1,4 +1,4 @@
-the spending of money for goods and services.
+the spending of money for goods and services in [[Personal Finances]].
 
 One will need to balance Wants and Needs, to fulfill a moderate portion of psychological needs and investing for the future.
 

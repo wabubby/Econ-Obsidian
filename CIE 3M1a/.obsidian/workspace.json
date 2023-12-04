@@ -16,30 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "28218a7cd25d45f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Profit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5de03a3c630e13a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Firm Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -184,9 +160,12 @@
   },
   "active": "c1c4463128903ba3",
   "lastOpenFiles": [
+    "Budgeting.md",
+    "Income.md",
+    "Firm Theory.md",
+    "Expenses.md",
     "Profit.md",
     "Revenue.md",
-    "Firm Theory.md",
     "Firm Revenue.md",
     "Production, Firms, and the Market.md",
     "Cost.md",
@@ -207,9 +186,6 @@
     "Terms.md",
     "Spending.md",
     "Overdraft.md",
-    "Expenses.md",
-    "Credit Score.md",
-    "Economics Theorist.md",
     "Pasted image 20231119170716.png",
     "Pasted image 20231119164826.png",
     "Pasted image 20231119143948.png",
