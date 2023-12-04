@@ -18,6 +18,138 @@
             }
           },
           {
+            "id": "87f74eac0c2341ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economic Decision Making.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f495bec823a1d0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Utility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8aeacabdbcdf7d10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economic Decision Making.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe2319a178531715",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reasons to Study Economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "58911e863778b38e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is Economics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "361a70a58e62913f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Economic Decision Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "877f95452f4d9e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantity vs Change.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7aec5d267706f66b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supply Curve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cf2b44c6dee16eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a6256898476eb5be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supply Curve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "243e08b9ca664791",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supply and Demand Curve.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "88818ca57f3c2706",
             "type": "leaf",
             "state": {
@@ -64,8 +196,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76cc37a72d0b6a5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Supply and Demand Schedule.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,6 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Economic Decision Making.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +301,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Economic Decision Making.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +323,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Economic Decision Making.md"
+              }
             }
           },
           {
@@ -206,15 +355,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1c4463128903ba3",
+  "active": "87f74eac0c2341ef",
   "lastOpenFiles": [
-    "Demand.md",
-    "Demand Curve.md",
-    "Supply.md",
-    "Supply and Demand.md",
-    "Supply and Demand Curve.md",
+    "The Decision Making Process.md",
     "Economic Decision Making.md",
+    "Marginal Choices.md",
+    "Economic Decision Terms.md",
+    "Utility.md",
+    "Reasons to Study Economics.md",
     "What is Economics.md",
+    "Demand Curve.md",
+    "Quantity vs Change.md",
+    "Supply and Demand Schedule.md",
+    "Supply Curve.md",
+    "Supply.md",
+    "Supply and Demand Curve.md",
+    "SD Revenue.md",
+    "Demand.md",
+    "Supply and Demand.md",
     "Social Science.md",
     "Economic Theory.md",
     "Economic Model.md",
@@ -222,18 +380,9 @@
     "Economic System.md",
     "Mixed Economy.md",
     "Economics Theorist.md",
-    "Economic Decision Terms.md",
     "Expenses.md",
     "Spending.md",
     "Goods.md",
-    "Ethical Economics.md",
-    "Economic Reasoning Pitfalls.md",
-    "Economic Growth & Decline.md",
-    "Analytical(Positive) Economics.md",
-    "Economic Graphing.md",
-    "Economic Scale.md",
-    "Endless Needs and Wants.md",
-    "Firm.md",
     "Pasted image 20231119170716.png",
     "Pasted image 20231119164826.png",
     "Pasted image 20231119143948.png",

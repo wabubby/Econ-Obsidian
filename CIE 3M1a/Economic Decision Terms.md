@@ -6,3 +6,5 @@ However, if they also use a bare minimum of resources, they are also [[Efficient
 the cost paid of making one choice is called [[Opportunity Cost]]
 
 Choices between tiny differences are called [[Marginal Choices]].
+
+#Core 

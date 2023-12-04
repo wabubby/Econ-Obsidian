@@ -1,4 +1,4 @@
-Like the design process, or the research process, or the scientific method, there is of course a defined standard framework for economic decisions.
+Like the design process, or the research process, or the scientific method, there is of course a defined standard framework for [[Economic Decision Making]].
 
 1. Identify the Problem or Need - what's the problem
 2. Gather Information/Research - i need context

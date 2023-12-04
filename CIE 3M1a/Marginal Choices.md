@@ -1,4 +1,4 @@
-Marginal Choices are choices of tiny differences. 
+Marginal Choices are [[Economic Decision Making]] choices of tiny differences. 
 
 - Eating 12 chips instead of 10
 - sleeping for 7 instead of 8 hours
