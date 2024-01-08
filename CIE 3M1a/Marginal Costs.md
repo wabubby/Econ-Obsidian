@@ -1,3 +1,6 @@
-[[Cost]] changes made at the margin; marginal decision making.
+the [[Cost]] change per unit output increase.
+- used to in marginal decision making for low-risk assessment.
 
-#Market 
+MC = d Cost / d Output
+
+#Market #Fourder 

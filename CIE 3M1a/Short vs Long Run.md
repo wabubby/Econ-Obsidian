@@ -9,7 +9,8 @@ To distinguish these time scales, Economists use the incredibly vague terms "in 
 
 - **Long Run** refers to the period where all costs are variable.
 	- eg. in the long run, a firm can build larger factories, more tech, and shut down inefficient production facilities.
+	- what are considered fixed resources are now variable in the long term.
 
 Their vagueness is intended, as different firms would have very different periods, some would be days, some would be decades. Nevertheless, this distinction is crucial in the discussion of firm economic decisions.
 
-#Market 
+#Market #Fourder 

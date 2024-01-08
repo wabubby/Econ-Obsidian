@@ -18,19 +18,31 @@
             }
           },
           {
-            "id": "088caa1d6f6c9258",
+            "id": "3e9a5262fb205db7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Government Enterprise.md",
+                "file": "Terms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "918978992d19ed5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Competition.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -84,7 +96,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -105,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Government Enterprise.md",
+                "file": "Competition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Government Enterprise.md",
+                "file": "Competition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Government Enterprise.md"
+                "file": "Competition.md"
               }
             }
           },
@@ -155,7 +168,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -176,41 +191,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "088caa1d6f6c9258",
+  "active": "918978992d19ed5b",
   "lastOpenFiles": [
-    "Government Enterprise.md",
-    "Crown Corporations.md",
-    "Liquidation.md",
-    "Unique Corporate Financing.md",
-    "Short vs Long Run.md",
-    "Co-operative.md",
-    "Stocks.md",
-    "Corporation.md",
-    "Marginal Costs.md",
-    "Fixed vs Variable Expenditure.md",
-    "Firm.md",
-    "Sole Proprietorship.md",
-    "Partnership.md",
-    "Liability.md",
+    "Measuring GDP.md",
+    "Terms.md",
+    "HDI.md",
     "GDP.md",
-    "Revenue.md",
+    "Pasted image 20240106162524.png",
+    "Pasted image 20240106162514.png",
+    "Production Issues.md",
+    "Types of Monopolies.md",
+    "Deregulation.md",
+    "Privatization.md",
+    "Competition Structures.md",
+    "Competition Determinants.md",
+    "Competition.md",
+    "Canadian Taxing.md",
+    "Tax.md",
+    "Proportional Taxing.md",
+    "Average Cost.md",
+    "Fixed vs Variable Expenditure.md",
+    "Marginal Costs.md",
+    "Pasted image 20240106131735.png",
     "Cost.md",
-    "Expenditure.md",
-    "Fixed vs Varied Expenditure.md",
-    "Firm Theory.md",
-    "Accounting Profit.md",
-    "Budgeting.md",
-    "Income.md",
-    "Expenses.md",
-    "Firm Revenue.md",
-    "Production, Firms, and the Market.md",
+    "Short vs Long Run.md",
+    "Business Scale.md",
+    "Corporation.md",
+    "Unique Corporate Financing.md",
+    "Production Cost Time Periods.md",
+    "Production.md",
+    "Productivity.md",
+    "Subsidies and Quotas.md",
     "Pasted image 20231119170716.png",
     "Pasted image 20231119164826.png",
     "Pasted image 20231119143948.png",
     "Pasted image 20231119142555.png",
     "Pasted image 20231119132130.png",
     "Pasted image 20231109090921.png",
-    "Pasted image 20231109090837.png",
-    "Pasted image 20231011084417.png"
+    "Pasted image 20231109090837.png"
   ]
 }

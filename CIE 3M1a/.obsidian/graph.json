@@ -120,6 +120,13 @@
       }
     },
     {
+      "query": "tag:#Fourder",
+      "color": {
+        "a": 1,
+        "rgb": 10308941
+      }
+    },
+    {
       "query": "tag:#Market",
       "color": {
         "a": 1,
@@ -144,28 +151,28 @@
       "query": "tag:#MarketIntervention",
       "color": {
         "a": 1,
-        "rgb": 9391028
+        "rgb": 11231074
       }
     },
     {
       "query": "tag:#Firm",
       "color": {
         "a": 1,
-        "rgb": 13460781
+        "rgb": 13468205
       }
     },
     {
       "query": "tag:#Production",
       "color": {
         "a": 1,
-        "rgb": 13538092
+        "rgb": 13540140
       }
     },
     {
-      "query": "tag:#MarketRegulation",
+      "query": "tag:#Industry",
       "color": {
         "a": 1,
-        "rgb": 14049055
+        "rgb": 13922091
       }
     }
   ],
@@ -179,6 +186,6 @@
   "repelStrength": 10.625,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.8854989543150468,
+  "scale": 0.6316046762907511,
   "close": false
 }
