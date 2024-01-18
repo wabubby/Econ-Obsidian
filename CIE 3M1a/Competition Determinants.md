@@ -10,3 +10,5 @@
 	- markets where entry is easy promotes competition, because the market can be saturated very easily by newcomers.
 	- markets where exit is hard promote competition, typically when many fixed resources are needed.
 - **Amount of Non-Price Competition**
+
+#Competition

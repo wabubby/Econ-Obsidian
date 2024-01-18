@@ -1,4 +1,4 @@
-[[Market]] Competition is one of the driving forces of Adam Smith's Laissez faire capitalism. 
+Market Competition is one of the driving forces of Adam Smith's Laissez faire capitalism. It is the competition between Firms selling similar products, heavily affected by [[Production, Firms, and the Market (and tax)]].
 
 Competition also allows consumers to keep corporations accountable:
 - acceptable prices
@@ -9,6 +9,4 @@ Competition also incentivizes companies to stay away from oversaturated markets,
 [[Competition Determinants]] are the factors affecting market structure.
 [[Competition Structures]] describe market competition.
 
-
-
-
+#Competition

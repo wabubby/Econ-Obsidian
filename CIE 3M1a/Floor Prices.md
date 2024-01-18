@@ -1,4 +1,4 @@
-a form of [[Government Market Intervention]] of setting a minimum allowed price:
+a form of [[Government Market Interventions]] of setting a minimum allowed price:
 
 If set below the varying equilibrium point:
 - demand outweighs supply, creating **surplus**

@@ -1,4 +1,4 @@
-Industries are broad groups of [[Market]] producers.
+Industries are broad groups of [[Firm]] producers.
 
 - Good-producing
 	- **Primary Industries** extract raw resources

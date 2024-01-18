@@ -12,3 +12,4 @@
 6. **Legal Monopoly** - exclusive rights to sell by the government due to patents, copyrights, or other legal protections, typically to incentivize further research and development.
 	1. media makers such as filmmakers and game developers often have copyright protection over their creative works. only they have the rights to certain characters or certain game mechanics.
 
+#Competition

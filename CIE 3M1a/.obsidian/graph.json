@@ -151,28 +151,49 @@
       "query": "tag:#MarketIntervention",
       "color": {
         "a": 1,
-        "rgb": 11231074
+        "rgb": 5616749
       }
     },
     {
       "query": "tag:#Firm",
       "color": {
         "a": 1,
-        "rgb": 13468205
+        "rgb": 13796136
       }
     },
     {
       "query": "tag:#Production",
       "color": {
         "a": 1,
-        "rgb": 13540140
+        "rgb": 13743923
       }
     },
     {
       "query": "tag:#Industry",
       "color": {
         "a": 1,
-        "rgb": 13922091
+        "rgb": 13913387
+      }
+    },
+    {
+      "query": "tag:#SocietalMeasure",
+      "color": {
+        "a": 1,
+        "rgb": 11552727
+      }
+    },
+    {
+      "query": "tag:#Competition",
+      "color": {
+        "a": 1,
+        "rgb": 10863165
+      }
+    },
+    {
+      "query": "tag:#Labor",
+      "color": {
+        "a": 1,
+        "rgb": 12955686
       }
     }
   ],
@@ -186,6 +207,6 @@
   "repelStrength": 10.625,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.6316046762907511,
+  "scale": 0.16348370567220724,
   "close": false
 }

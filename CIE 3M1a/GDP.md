@@ -19,4 +19,4 @@ Gross Domestic Product is a very commonly used macroeconomic benchmark for econo
 **Real GDP per Capita** is a common ballpark for economic health.
 **Real GDP Growth Rate** is another great ballpark for changing economic health.
 
-#Market #Fourder
+#Unit  #SocietalMeasure 

@@ -16,33 +16,8 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "3e9a5262fb205db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Terms.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "918978992d19ed5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Competition.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stock",
+                "query": "tag:#Workers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Competition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Competition.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Competition.md"
-              }
+              "state": {}
             }
           },
           {
@@ -191,37 +162,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "918978992d19ed5b",
+  "active": "c1c4463128903ba3",
   "lastOpenFiles": [
-    "Measuring GDP.md",
-    "Terms.md",
-    "HDI.md",
+    "Tax.md",
     "GDP.md",
-    "Pasted image 20240106162524.png",
-    "Pasted image 20240106162514.png",
-    "Production Issues.md",
-    "Types of Monopolies.md",
+    "Production, Firms, and the Market (and tax).md",
+    "Labor.md",
+    "Negotiation.md",
+    "Labor Legislation.md",
+    "Labor Unions.md",
+    "Labor Union Scale.md",
+    "Labor Market Curve.md",
+    "Worker Productivity.md",
+    "Natural Rate of Unemployment.md",
+    "Unemployment.md",
+    "Unemployment Rate.md",
+    "Supply Determinant.md",
+    "Demand Determinant.md",
+    "Supply and Demand Curve.md",
+    "Industry.md",
+    "Government Market Interventions.md",
     "Deregulation.md",
     "Privatization.md",
+    "Types of Monopolies.md",
     "Competition Structures.md",
     "Competition Determinants.md",
     "Competition.md",
-    "Canadian Taxing.md",
-    "Tax.md",
-    "Proportional Taxing.md",
-    "Average Cost.md",
-    "Fixed vs Variable Expenditure.md",
-    "Marginal Costs.md",
+    "Market Interventions.md",
+    "HDI.md",
+    "Pasted image 20240106162524.png",
+    "Pasted image 20240106162514.png",
     "Pasted image 20240106131735.png",
-    "Cost.md",
-    "Short vs Long Run.md",
-    "Business Scale.md",
-    "Corporation.md",
-    "Unique Corporate Financing.md",
-    "Production Cost Time Periods.md",
-    "Production.md",
-    "Productivity.md",
-    "Subsidies and Quotas.md",
     "Pasted image 20231119170716.png",
     "Pasted image 20231119164826.png",
     "Pasted image 20231119143948.png",

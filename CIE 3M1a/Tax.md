@@ -1,4 +1,4 @@
-Taxes are compulsory contributions to state revenue:
+Taxes are a form of Government Intervention through compulsory contributions to state revenue:
 - levied by the **government**
 - paid by the [[Market]]: worker(income) tax and corporate(profit) tax
 

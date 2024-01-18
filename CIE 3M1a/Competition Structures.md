@@ -33,3 +33,5 @@ Most Competitive
 	- [[Deregulation]] is a gov intervention that breaks up monopolies.
 	- [[Types of Monopolies]]
 Least Competitive
+
+#Competition

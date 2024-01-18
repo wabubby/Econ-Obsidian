@@ -3,6 +3,7 @@ One of Adam Smith's main arguments for capitalism is "laissez-faire", where he t
 However, sometimes the government may need to step in to the [[Market]].
 - a problem is directly interfering with the market's foundations
 - the problem is taking too long to fix itself, and people are suffering as a result
+- they can be represented graphically on the [[Market Curve]]
 
 
 Here are three basic problems, three basic solutions, and three complex problems:
