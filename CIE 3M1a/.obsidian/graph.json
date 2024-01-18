@@ -195,6 +195,13 @@
         "a": 1,
         "rgb": 12955686
       }
+    },
+    {
+      "query": "tag:#Negotiation",
+      "color": {
+        "a": 1,
+        "rgb": 13737001
+      }
     }
   ],
   "collapse-display": true,
@@ -207,6 +214,6 @@
   "repelStrength": 10.625,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.16348370567220724,
+  "scale": 0.16348370567221135,
   "close": false
 }
