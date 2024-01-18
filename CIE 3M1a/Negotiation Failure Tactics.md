@@ -10,3 +10,5 @@ When the [[Negotiation Process]] fails, the union and employers will throw hands
 
 These tactics lower income and revenue directly. Related industries and consumers are also affected by production.
 - fry industry will be severely hurt if the potato farmers' union go on strike.
+
+#Negotiation 

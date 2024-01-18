@@ -8,3 +8,5 @@
 - injury and illness compensation
 
 Groups of workers can do a lot together to improve their wages and secure their future.
+
+#Labor 

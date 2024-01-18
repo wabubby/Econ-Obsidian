@@ -16,18 +16,6 @@
               "state": {},
               "pinned": true
             }
-          },
-          {
-            "id": "3f14797c65c3f70f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Collective Bargaining.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -176,12 +164,13 @@
   },
   "active": "c1c4463128903ba3",
   "lastOpenFiles": [
-    "Other Union Activities.md",
     "Negotiation Failure Tactics.md",
     "Negotiation Process.md",
+    "Union Pros and Cons.md",
+    "Other Union Activities.md",
+    "Security Clauses.md",
     "Collective Bargaining.md",
     "Cost of Living Allowances.md",
-    "Security Clauses.md",
     "Union Due.md",
     "Labor Legislation.md",
     "Labor Union.md",
@@ -201,7 +190,6 @@
     "Supply and Demand Curve.md",
     "Industry.md",
     "Government Market Interventions.md",
-    "Deregulation.md",
     "Pasted image 20240106162524.png",
     "Pasted image 20240106162514.png",
     "Pasted image 20240106131735.png",

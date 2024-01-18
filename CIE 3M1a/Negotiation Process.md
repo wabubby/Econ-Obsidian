@@ -10,3 +10,5 @@
 	3. compulsory arbitration is the legislation that both parties must submit their cases
 
 Bargaining Fails... then the FIGHT BEGINS: [[Negotiation Failure Tactics]]
+
+#Negotiation 
