@@ -16,8 +16,45 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "0e24a66278a3230c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consumer Price Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf81d2a5784c1a07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDP Deflator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fbe45c7f2e8127f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Consumer Price Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Consumer Price Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Consumer Price Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Consumer Price Index.md"
+              }
             }
           },
           {
@@ -162,8 +203,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1c4463128903ba3",
+  "active": "0e24a66278a3230c",
   "lastOpenFiles": [
+    "Inflation.md",
+    "GDP Deflator.md",
+    "Consumer Price Index.md",
+    "Terms.md",
+    "Income Equality.md",
+    "Economic Goals.md",
+    "Poverty.md",
+    "HDI.md",
+    "The Poverty Cycle.md",
+    "Poverty Line.md",
+    "Low Income.md",
     "Negotiation Failure Tactics.md",
     "Negotiation Process.md",
     "Union Pros and Cons.md",
@@ -179,17 +231,6 @@
     "Tax.md",
     "GDP.md",
     "Production, Firms, and the Market (and tax).md",
-    "Labor.md",
-    "Labor Market Curve.md",
-    "Worker Productivity.md",
-    "Natural Rate of Unemployment.md",
-    "Unemployment.md",
-    "Unemployment Rate.md",
-    "Supply Determinant.md",
-    "Demand Determinant.md",
-    "Supply and Demand Curve.md",
-    "Industry.md",
-    "Government Market Interventions.md",
     "Pasted image 20240106162524.png",
     "Pasted image 20240106162514.png",
     "Pasted image 20240106131735.png",

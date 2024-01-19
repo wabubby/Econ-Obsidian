@@ -2,7 +2,7 @@
 
 - **Economic Efficiency** - achieving maximum util from employment of an economy’s scarce resources. Greater economic efficiency is correlated with the wealth of citizen stakeholders.
 
-- **Income Equity** - total output is distributed fairly - “fair” is subjective. Huge wealth gaps are an inefficient use of resources and generally unethical.
+- [[Income Equality]] - total output is distributed fairly - “fair” is subjective. Huge wealth gaps are an inefficient use of resources and generally unethical.
 
 - **Price Stability** - the minimization of [[Inflation]].
 
