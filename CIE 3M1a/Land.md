@@ -2,4 +2,6 @@ Natural resources, sometimes simplified into the term "land", are all the natura
 
 Land, minerals, fresh water, wheat, forests, etc.
 
+Also known as "natural capital".
+
 #Resource 

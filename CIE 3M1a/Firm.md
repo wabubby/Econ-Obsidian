@@ -1,4 +1,4 @@
-**Privately-Owned Business Organizations** engaged in both [[Cost]]s and [[Production]] in the [[Market]] to maximize **profits** (which as you can guess, only has good, normative outcomes). 
+**Privately-Owned Business Organizations** engaged in both [Costs] and [[Production]] in the Market to maximize **profits** (which as you can guess, only has good, normative outcomes). 
 
 Come in five flavors of legal ownership status:
 1. [[Sole Proprietorship]] - owned by a single

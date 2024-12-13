@@ -5,3 +5,4 @@ The Relative Cost is the opportunity cost of one product against another, repres
 the [[Law of Increasing Relative Cost]] states that the linear cost of producing one items means an increasing relative cost.
 
 #PPC  
+#new

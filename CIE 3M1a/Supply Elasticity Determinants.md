@@ -5,6 +5,6 @@ Determinants of [Supply] [[Elasticity]], pretty to analogous to Demand Determina
 	- some sellers can ride out price decreases by saving their products
 	- not the case for perishables
 - Cost factors
-	- increasing production has major ramifcations to be considered
+	- increasing production has major ramifications to be considered
 
 #Supply 

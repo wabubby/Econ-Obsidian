@@ -5,4 +5,7 @@ One division of that concerns with how the small scale economics of indivudal sa
 
 This course will mostly focus on microeconomics.
 
+- eg. the price of a single product
+- the workings of a single family or firm
+
 #Branch 

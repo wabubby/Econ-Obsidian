@@ -1,4 +1,4 @@
-Determinants of [Demand] [[Elasticity]], pretty to analogous to Demand Determinants.
+Determinants of [[Demand]] [[Elasticity]].
 
 - Availability of Substitutes.
 - Nature of the Item - Necessity vs Luxury

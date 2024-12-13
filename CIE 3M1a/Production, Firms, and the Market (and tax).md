@@ -1,3 +1,3 @@
-[[Production]], [[Firm]]s, and the [[Market]].
+[[Production]], [[Firm]]s, and the Market.
 
 #Unit 

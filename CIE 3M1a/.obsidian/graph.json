@@ -202,18 +202,46 @@
         "a": 1,
         "rgb": 13730601
       }
+    },
+    {
+      "query": "tag:#new",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "tag:#aggregate",
+      "color": {
+        "a": 1,
+        "rgb": 12681284
+      }
+    },
+    {
+      "query": "tag:#BusinessCycle  ",
+      "color": {
+        "a": 1,
+        "rgb": 12670532
+      }
+    },
+    {
+      "query": "tag:#FiscalPolicy",
+      "color": {
+        "a": 1,
+        "rgb": 11443532
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": -0.5,
+  "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.01875,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.390625,
-  "repelStrength": 10.625,
+  "collapse-forces": true,
+  "centerStrength": 0.341995841995842,
+  "repelStrength": 7.92099792099792,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.3213363860503588,
+  "scale": 0.17874521860402093,
   "close": false
 }

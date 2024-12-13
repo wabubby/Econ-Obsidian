@@ -1,3 +1,97 @@
+- Three types of fallacies
+    - post hoc
+        
+        - single causation
+        - composition
+        
+    
+- statements for normative and analytical economics
+    
+    - descriptive and conditional statements
+        
+        - value judgement
+        
+    
+- Three assumptions of production possibilities
+    
+    - two products: ceteris paribus
+        
+        - no growth over time
+        - full employment
+        - relative cost
+        - PPC frontier
+        
+    
+- Economic Goals for every country
+    
+    - viable balance of payments
+        
+        - price stability
+        - full employment
+        - income equity
+        - economic efficiency
+        - economic growth
+        - environmental sustainability
+        
+    
+- Equation for elasticity of supply
+    
+    - Elasticity Coefficient<sub>D</sub> = % change in Quantity<sub>D</sub> / % change in Price<sub>D</sub>
+    
+- Real GDP vs Nominal GDP
+- Ependiture and Income is added by:
+    
+    - GDP = Wages + Rent + Interest + Corporate Profits + Depreciation + Indirect Taxes
+        
+        - GDP = Consumption + Investment + Government Expenditures + Net Exports
+        
+    
+- HDI
+
+- Five types of firms
+    
+    - sole proprietorship
+        
+        - partnership
+        - cooperative
+            
+            - democratic -> very infelxible
+            
+        - corporation
+        - government enterprises
+        
+    
+- two types of crown corporations
+    
+    - good-dependent
+        
+        - government dependent
+        
+    
+- unique corporate financing
+- privatization
+- two types of production methods
+    
+    - traditional production method
+        
+        - capitalistic production method
+            
+            - more fixed costs
+            
+        
+    
+- Competition Structures
+    
+    - monopoly
+        
+        - oligopoly
+        - monopolistic competition
+        - perfect competition
+        
+    
+- competition determinants
+- GNI
+
 - Unemployment
 	- who counts as employed, unemployed, labor force
 		- employed - those who did any work at all the past month
