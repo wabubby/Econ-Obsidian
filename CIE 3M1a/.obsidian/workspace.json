@@ -47,8 +47,7 @@
               "title": "Circular Flow of Income"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,13 +214,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5c48febd8c7ff219",
+  "active": "0b6c5e713cb790a0",
   "lastOpenFiles": [
+    "Exam Review Terms.md",
     "Circular Flow of Income.md",
     "Fiscal Policy.md",
     "Recession.md",
     "The Overnight Rate.md",
-    "Exam Review Terms.md",
     "Inflation.md",
     "CPI.md",
     "Labour Demand Determinants.md",
