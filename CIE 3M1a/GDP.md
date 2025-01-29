@@ -1,22 +1,24 @@
-Gross Domestic Product is a very commonly used macroeconomic benchmark for economic success and productivity. As a purely statistical number, it does not accurately reflect normative values.
+Gross Domestic Product is a very commonly used macroeconomic benchmark for the [[Economic Goal]] of economic efficiency and productivity. 
 
-**Gross National Product (GNP)** was used to measure economic output of Canada prior to 1986.
+Calculation: Consumption + Government Expenditure + Investment + Net Exports
+- ONLY final goods sold are counted
+	- intermediate goods
+	- non-market transactions
+	- illegal activity
+- I: infrastructure, capital goods, business inventories
 
-**Real GDP** measures the net values of goods produced by a [[Market]]
-- **final goods** and services are only considered.
-	- intermediate goods are used to eventually make something else, not counted.
-	- non-production resources such as bonds or stock do not contribute value to a market.
-	- used goods are not counted.
-	- non-market transactions such as unpaid labor do not count.
-	- illegal activities are not counted.
-- takes into account the values of different currencies.
-- only cares about the timeframe of a **single year**.
-- **exports** count only if the the goods were produced by the country
-- only counts good sold in a **market** for money capital, not trading.
+limitations:
+- **Population** isn't accounted for
+	- **GDP per capita** resolves this.
+- **Inflation** isn't accounted for
+	- [[Real vs Nominal GDP|Real GDP]] solves this
+- Non-Marketed Production isn't accounted for
+	- stay-at-home parents
+	- charity
+	- Underground economy
+- Other Economic Goals aren't accounted for
+	- environment, freedom, income equity, happiness, etc.
+	- GDP growth rate, HDI, and CPI, Unemployment rate are good for that
 
-**Nominal GDP** is identical to GDP except it doesn't take into account currency value differences. eg. inflation or different currency types.
-
-**Real GDP per Capita** is a common ballpark for economic health.
-**Real GDP Growth Rate** is another great ballpark for changing economic health.
-
-#Unit  #SocietalMeasure 
+ #MainMeasure
+ 

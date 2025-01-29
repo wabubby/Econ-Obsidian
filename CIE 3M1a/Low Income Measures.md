@@ -5,3 +5,5 @@ Canada does not have a defined metric for [[Poverty]], but instead uses various 
 - **Low Income Measure:** defines low income as abeing a below a fixed percentage of income (below 50% of median household incomes.)
 
 Using these three distinct low-income thresholds, there are anywhere from 3 to 4.5 millions with "low-income".
+
+#equity 

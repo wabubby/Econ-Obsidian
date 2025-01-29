@@ -1,3 +1,5 @@
+An [[Economic Goal]].
+
 Economically, unemployment is the state of not doing work. This is bad because:
 - lowered production and spending (aka circulation)
 - unemployed are government burdens
@@ -22,4 +24,4 @@ There are four major causes of unemployment, caused by change:
 	1. Positive feedback loops cause dips in circulation. This is a marxist crtique.
 	2. Great Depression -> less purchase -> less production -> less employment -> ...
 
-#Labor 
+#Labor #System 

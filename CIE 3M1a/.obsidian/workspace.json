@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ba2a22b21fc24510",
+            "id": "0b6c5e713cb790a0",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,34 +20,35 @@
             }
           },
           {
-            "id": "2bc16169a9c7898f",
+            "id": "5c48febd8c7ff219",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fiscal Policy.md",
+                "file": "Exam Review Terms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fiscal Policy"
+              "title": "Exam Review Terms"
             }
           },
           {
-            "id": "a39f99a73dc6fae8",
+            "id": "dacc53fbe8346a9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenges to Fiscal Policy.md",
+                "file": "Circular Flow of Income.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Challenges to Fiscal Policy"
+              "title": "Circular Flow of Income"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,10 +79,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "aggr",
+                "query": "surplus bud",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -214,43 +215,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba2a22b21fc24510",
+  "active": "5c48febd8c7ff219",
   "lastOpenFiles": [
-    "Challenges to Fiscal Policy.md",
-    "Review.md",
-    "Terms.md",
-    "Economic Thinkers.md",
-    "Fiscal Policy.md",
-    "Election Cycles.md",
-    "Future Burdens.md",
-    "Infrastructure.md",
-    "Time Lags.md",
-    "Government Budget.md",
-    "Deficit Budget.md",
-    "Multiplier Effect.md",
-    "Employment Insurance.md",
-    "Progressive Tax.md",
-    "Stabilization Policies.md",
-    "Aggregate Supply Determinants.md",
-    "Price Level.md",
-    "Aggregate Demand.md",
-    "Recession.md",
-    "Trough.md",
-    "Peak.md",
-    "Expansion.md",
-    "The Business Cycle.md",
-    "Aggregate Demand Shifts.md",
-    "Injections.md",
     "Circular Flow of Income.md",
+    "Fiscal Policy.md",
+    "Recession.md",
+    "The Overnight Rate.md",
+    "Exam Review Terms.md",
+    "Inflation.md",
+    "CPI.md",
+    "Labour Demand Determinants.md",
+    "Redistributing National Income.md",
+    "Wage Differential.md",
+    "Pasted image 20250127202606.png",
+    "Labor Market Curve.md",
+    "Reserves.md",
+    "Reserve Ratio.md",
+    "Productivity.md",
+    "Production.md",
+    "Fixed vs Variable Expenditure.md",
+    "Expansion.md",
+    "Cost.md",
+    "Average Cost.md",
+    "Marginal Costs.md",
+    "Market Equilibrium.md",
+    "Stabilization Policies.md",
+    "Elasticity.md",
+    "Poverty.md",
+    "Untitled.md",
+    "Measuring Poverty.md",
+    "Pasted image 20250127180354.png",
+    "Pasted image 20250127175706.png",
+    "Pasted image 20250127175647.png",
+    "Pasted image 20250127175008.png",
     "Pasted image 20241128132914.png",
     "Pasted image 20241128130544.png",
     "Pasted image 20241128122412.png",
     "Pasted image 20241028114056.png",
-    "Pasted image 20240923093124.png",
-    "Pasted image 20240106162524.png",
-    "Pasted image 20240106162514.png",
-    "Pasted image 20240106131735.png",
-    "Pasted image 20231119170716.png",
-    "Pasted image 20231119164826.png"
+    "Pasted image 20240923093124.png"
   ]
 }

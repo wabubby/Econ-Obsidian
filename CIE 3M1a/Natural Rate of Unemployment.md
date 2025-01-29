@@ -4,4 +4,4 @@ To set a top benchmark of economic health, economists use the much more reasonab
 
 This is the same number economists refer to when they say **full employment**, even though it's never a perfect 100%.
 
-#Labor 
+#SocietalMeasure 

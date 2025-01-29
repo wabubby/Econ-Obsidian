@@ -2,4 +2,4 @@ The "usefullness of needs and wants" derived from **each** **individual** **opti
 
 Measured in [[Util]]s.
 
-#SubCore #Unit 
+#Utility_theory #Unit 

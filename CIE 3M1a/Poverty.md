@@ -11,6 +11,6 @@ Being in poverty has a number of unfun consequences:
 - social climates
 - lowered economic potential
 
-there are two ways to define poverty:
-- **absolute poverty** is a threshold of basic necessities
-- **relative poverty** is a mathematical, relative threshold of50% less than the median
+9.9% of Canadians are in poverty :(
+
+#equity 

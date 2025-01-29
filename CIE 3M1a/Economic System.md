@@ -14,7 +14,7 @@ Due to their intrinsically complex nature, economic systems are hard to describe
 	- who should the output of goods be distributed (and by extension, by what system are they distributed)?
 	- no economy is able to produce for everyone - there is no "right" answer.
 
-How economic system's answer these questions is a study of Normative Economics and is typically completely subjective - there are so many [[Economic Goals]] a nation could desire.
+How economic system's answer these questions is a study of Normative Economics and is typically completely subjective - there are so many [[Economic Goal]] a nation could desire.
 
 It is sisyphean to define an economy's answers to such questions, so it's easier to use predefined terms to describe how economies answer these questions.
 Economic systems today can be typically represented as a [[Mixed Economy]] consisting of elements from these three:

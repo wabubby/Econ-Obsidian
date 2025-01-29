@@ -1,4 +1,4 @@
-the percentage of the [[Labor]] in involuntary [[Unemployment]].
+the percentage of the [Labor] in involuntary [[Unemployment]].
 - those who cannot work, such as children, are not considered apart of the workforce.
 
 Unemployment rate is a useful benchmark to measure economic health, productivity.
@@ -8,4 +8,4 @@ Unemployment rate is a useful benchmark to measure economic health, productivity
 
 UR = Total Employed / Total Labor Force x 100%
 
-#Labor 
+ #MainMeasure 

@@ -9,3 +9,5 @@ Income inequality is the difference of income distribution across populations.
 - regional circulation disparities
 
 In many places, those in [[Poverty]] have huge inequality with the richest.
+
+#equity
