@@ -86,7 +86,7 @@
 - Back-to-Work Legislation
 
 **Firms**
-- Production Methods (3)
+- **Production Methods (3)**
 	- labor intensive
 	- capital intensive
 	- technology intensive
@@ -147,7 +147,7 @@
 	- Cyclical: economy cycles
 	- Seasonal: fishing
 	- Classical: wages are too high for companies to afford
-o
+
 **Business Cycle and Fiscal Policy**
 - Aggregate Supply and Demand Features (2)
 	- full employment equilibrium
@@ -188,7 +188,7 @@ o
 	- Medium of Exchange
 	- Store of Value
 - M1 and M2
-	- m1 is cash and chequing accounts
+	- **m1 is cash and chequing accounts**
 	- m2 is + savings accounts, term deposits, and non-personal notice deposits
 - Functions of the BOC
 	- issue currency
@@ -211,20 +211,24 @@ o
 	- absolute and comparative advantage
 		- trade is mutually beneficial!!!
 	- GATT -> WTO
-	- Trading blocs separate from WTO
-		- free trade areas - areas of free trade agreement
-		- customs union - +trade restrictions for non-members
-		- common market - +free movement of labor and capital
+- **Trading blocs separate from WTO**
+	- free trade areas - areas of free trade agreement
+	- customs union - +trade restrictions for non-members
+	- common market - +free movement of labor and capital
 - protectionism
 	- policy that aims to restrict imports through 
 		- tariffs, quotas, regulations, embargos, sanctions, export taxes, etc.
 	- boost and protect domestic industry
-- globalism
+- globalization
 	- process where national economies integrate through:
 		- communication tech
 		- foreign investment
 		- international trade
 		- immigration
 		- flow of money
+- what are some FTAs Canada are involved with
+	- North American Free Trade Association (NAFTA)
+	- Pacific Stuff
+	- Automobile FTA
 
 #Unit

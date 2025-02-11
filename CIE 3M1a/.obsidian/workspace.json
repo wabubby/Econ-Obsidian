@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "5c48febd8c7ff219",
+            "id": "099548e6cc40b59e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,20 +31,6 @@
               },
               "icon": "lucide-file",
               "title": "Exam Review Terms"
-            }
-          },
-          {
-            "id": "dacc53fbe8346a9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Circular Flow of Income.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Circular Flow of Income"
             }
           }
         ]
@@ -114,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "6697ed14e4633627",
@@ -217,32 +202,32 @@
   "active": "0b6c5e713cb790a0",
   "lastOpenFiles": [
     "Exam Review Terms.md",
-    "Circular Flow of Income.md",
-    "Fiscal Policy.md",
-    "Recession.md",
+    "Money Supply.md",
+    "Types of Interest Rate.md",
     "The Overnight Rate.md",
-    "Inflation.md",
-    "CPI.md",
-    "Labour Demand Determinants.md",
-    "Redistributing National Income.md",
-    "Wage Differential.md",
-    "Pasted image 20250127202606.png",
-    "Labor Market Curve.md",
-    "Reserves.md",
+    "Operating Band.md",
     "Reserve Ratio.md",
-    "Productivity.md",
-    "Production.md",
-    "Fixed vs Variable Expenditure.md",
+    "Deficit Budget.md",
+    "Government Budget.md",
+    "Depression.md",
+    "Bubbles.md",
     "Expansion.md",
-    "Cost.md",
-    "Average Cost.md",
-    "Marginal Costs.md",
-    "Market Equilibrium.md",
-    "Stabilization Policies.md",
-    "Elasticity.md",
-    "Poverty.md",
-    "Untitled.md",
-    "Measuring Poverty.md",
+    "Price Level.md",
+    "Industry.md",
+    "Aggregate Supply.md",
+    "Business Scale.md",
+    "Unique Corporate Financing.md",
+    "Crown Corporations.md",
+    "Competition Structures.md",
+    "Liquidation.md",
+    "Productivity.md",
+    "Competition Determinants.md",
+    "Wage Differential.md",
+    "Competition.md",
+    "Negotiation Failure Tactics.md",
+    "Collective Bargaining.md",
+    "Negotiation Process.md",
+    "Pasted image 20250127202606.png",
     "Pasted image 20250127180354.png",
     "Pasted image 20250127175706.png",
     "Pasted image 20250127175647.png",

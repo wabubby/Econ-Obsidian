@@ -1,4 +1,4 @@
-Wage rate differences, affected by i the [[Labor Market Curve]].
+Wage rate differences, affected by the [[Labor Market Curve]].
 - vacations, work-culture, morale, other benefits
 - barriers to entry life licensing or training
 
