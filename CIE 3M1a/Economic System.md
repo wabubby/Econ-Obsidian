@@ -10,6 +10,7 @@ Due to their intrinsically complex nature, economic systems are hard to describe
 	- what capital and resources should be consumed to produce?
 	- what line is drawn for opportunity costs?
 	- again, there is no "right" answer.
+	- capital intesive, labor intensive, technologically intensive....???
 - **Why/For Whom** to produce?
 	- who should the output of goods be distributed (and by extension, by what system are they distributed)?
 	- no economy is able to produce for everyone - there is no "right" answer.
@@ -29,4 +30,4 @@ But how do economies come to settle on these arbitrary answers? There are hundre
 - culture, climate, available resources, competition, history, etc. 
 these factors tend to centrally funnel into a Political System that generally decides the answers to these questions. The study of the relationships between political systems and economies is [[Political Economics]].
 
-#System #Unit
+#System #Unit 
