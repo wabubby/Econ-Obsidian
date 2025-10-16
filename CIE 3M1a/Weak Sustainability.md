@@ -1,4 +1,12 @@
-Popular with them [[Neoclassical Economists]].
+Popular with them [Neoclassical Economists].
 
-Defines sustainability as the maintenance of total capital.
-- the reduction of natural capital is okay as long other forms can be substituted into production for achieving our needs.
+Sustainability is the maintenance of **total capital**.
+- allows natural degradation as long as it can be substituted
+- [[Net National Welfare]]
+- [[Inclusive Wealth]]
+- [[Genuine Savings]]
+- notice how all of these collapse into a single number, an index.
+
+*using non-renewable resources like phosphate is okay as long as it converted into manufaturing capital*
+
+#sustainability #weakSus

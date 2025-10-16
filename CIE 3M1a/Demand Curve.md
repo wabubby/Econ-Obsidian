@@ -2,4 +2,4 @@ The expression of a [[Supply and Demand Schedule|Demand Schedule]] on a graph. E
 
 negative slope displays the Law of Demand.
 
-#Demand
+#Demand #eco199

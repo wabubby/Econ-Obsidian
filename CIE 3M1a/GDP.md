@@ -16,6 +16,11 @@ limitations:
 	- stay-at-home parents
 	- charity
 	- Underground economy
+- Doesn't capture irregular market prices
+- Double Counts [[Defensive Expenditures]]
+	- expenditures used to combat costs from economic activity
+	- water purification, doctor visits, medical masks
+	- essentially the double counting of intermediate goods
 - Other Economic Goals aren't accounted for
 	- environment, freedom, income equity, happiness, etc.
 	- GDP growth rate, HDI, and CPI, Unemployment rate are good for that

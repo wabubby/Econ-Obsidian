@@ -39,14 +39,7 @@
       "query": "tag:#Branch",
       "color": {
         "a": 1,
-        "rgb": 12044593
-      }
-    },
-    {
-      "query": "tag:#Pitfalls",
-      "color": {
-        "a": 1,
-        "rgb": 12044593
+        "rgb": 11254825
       }
     },
     {
@@ -235,14 +228,14 @@
       "query": "tag:#Money",
       "color": {
         "a": 1,
-        "rgb": 4638812
+        "rgb": 8041802
       }
     },
     {
       "query": "tag:#banking",
       "color": {
         "a": 1,
-        "rgb": 5207231
+        "rgb": 4814544
       }
     },
     {
@@ -256,7 +249,7 @@
       "query": "tag:#Utility_theory",
       "color": {
         "a": 1,
-        "rgb": 3761472
+        "rgb": 9719117
       }
     },
     {
@@ -272,6 +265,41 @@
         "a": 1,
         "rgb": 14856298
       }
+    },
+    {
+      "query": "tag:#susMeasure  ",
+      "color": {
+        "a": 1,
+        "rgb": 14511808
+      }
+    },
+    {
+      "query": "tag:#susEconomist  ",
+      "color": {
+        "a": 1,
+        "rgb": 9461856
+      }
+    },
+    {
+      "query": "tag:#strongSus",
+      "color": {
+        "a": 1,
+        "rgb": 3188388
+      }
+    },
+    {
+      "query": "tag:#weakSus",
+      "color": {
+        "a": 1,
+        "rgb": 9290601
+      }
+    },
+    {
+      "query": "tag:#sustainability",
+      "color": {
+        "a": 1,
+        "rgb": 4960092
+      }
     }
   ],
   "collapse-display": false,
@@ -280,10 +308,10 @@
   "nodeSizeMultiplier": 1.01875,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.4002079002079,
-  "repelStrength": 7.92099792099792,
+  "centerStrength": 0.71875,
+  "repelStrength": 15.1041666666667,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.272686047972106,
-  "close": true
+  "scale": 0.7069023997743984,
+  "close": false
 }

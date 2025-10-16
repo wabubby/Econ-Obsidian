@@ -1,5 +1,5 @@
 - Pre-industrial
-	- high birth rate and death rate
+	- high [[Total Fertility Rate]] and death rate
 	- high infant mortality and disease
 
 - transitional stage
@@ -14,3 +14,5 @@
 	- birth rate and death rate low
 
 ![[Pasted image 20251002124422.png]]
+
+#sustainability #strongSus 

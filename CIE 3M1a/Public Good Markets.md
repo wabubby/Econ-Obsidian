@@ -1,0 +1,3 @@
+While pure private goods follow a healthy, MB = MC efficiency maximization, [[Public Goods]] are a VERY, VERY DIFFERENT STORY, as the marginal cost will match the aggregate of eveyrone's marginal benefits. 
+
+Because the positive and negative effect of public goods are distributed, people should share the cost. However, in this situation it's very likely for the [[Freeriding Problem]]  and [[Tragedy of the Commons]] to occur.

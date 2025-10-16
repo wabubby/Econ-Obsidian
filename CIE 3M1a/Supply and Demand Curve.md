@@ -4,4 +4,4 @@ An Economic Model commonly used to illustrate [[Supply and Demand]] and their ch
 - [[Supply Curve]], [[Demand Curve]]
 - created through graphing the Supply and Demand[[Supply and Demand Schedule]]s
 
-#Market 
+#Market #eco199  

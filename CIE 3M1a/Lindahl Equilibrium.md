@@ -1,0 +1,1 @@
+The equilibrium for [[Public Goods]] markets.

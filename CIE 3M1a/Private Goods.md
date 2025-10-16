@@ -1,0 +1,1 @@
+Private goods work best with market systems: goods that are rival and excludable. An ownership of their instance is property to themselves.

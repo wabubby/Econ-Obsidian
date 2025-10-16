@@ -1,1 +1,3 @@
-A [[Sustainability Definitions]] based on **non-decreasing** utility for future generations.
+Sustainability means maintaining **utility**.
+
+#sustainability 

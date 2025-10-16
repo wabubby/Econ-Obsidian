@@ -1,0 +1,3 @@
+In markets for public goods, people tend to lowball their marginal benefit to take on more benefit without paying more, which obviously causes very inefficient allocation of public goods on a social level.
+
+The natural solution would be to distribute cost by wealth instead, but that tends to only alienate the wealthy. This is a common reason why [[Natural Sustainability]] seems heavily unprioritized.

@@ -9,3 +9,5 @@ Optimisitc [[Sustainability Economists]] that believe that economic growth is su
 the natural enemy of modern malthusists.
 
 ie. Solow, Nordhaus was a lot more realistic tho
+
+#susEconomist #sustainability 

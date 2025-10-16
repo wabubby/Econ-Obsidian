@@ -1,4 +1,4 @@
-Determinants of [Supply] [[Elasticity]], pretty to analogous to Demand Determinants.
+Determinants of [[Supply]] [[Elasticity]], pretty to analogous to Demand Determinants.
 
 - Time to adjust production
 - Ease of storage
