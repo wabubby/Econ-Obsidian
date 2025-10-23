@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "c94d68030e67d531",
+            "id": "6ba6939316c7034e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Externality.md",
+                "file": "Policy Instruments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Externality"
+              "title": "Policy Instruments"
             }
           }
         ],
@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6697ed14e4633627",
@@ -201,12 +202,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c94d68030e67d531",
+  "active": "6ba6939316c7034e",
   "lastOpenFiles": [
+    "Environmental Policy Attributes.md",
+    "Coase Theorem.md",
+    "Least Cost Theorem.md",
+    "Externality.md",
+    "Policy Instruments.md",
+    "Institutional Approaches.md",
+    "Pasted image 20251023120507.png",
+    "Environmental Policy.md",
+    "Environmental Protection Agency.md",
     "Pasted image 20251016135947.png",
     "Tragedy of the Commons.md",
     "Freeriding Problem.md",
-    "Externality.md",
     "Market Failure.md",
     "Public Good Markets.md",
     "Public Goods.md",
@@ -223,22 +232,14 @@
     "Genuine Savings.md",
     "Hartwick Rule.md",
     "Inclusive Wealth.md",
-    "Goods.md",
-    "Strong Sustainability.md",
     "Pasted image 20251010152826.png",
     "Pasted image 20251010151707.png",
-    "Economic System.md",
-    "Economic Goal.md",
-    "GDP.md",
-    "Defensive Expenditures.md",
     "Pasted image 20251010145620.png",
     "kuznets-environment-600x450.png",
     "Untitled.base",
     "Pasted image 20251002125851.png",
     "Pasted image 20251002124809.png",
     "Pasted image 20251002124422.png",
-    "Pasted image 20251002123436.png",
-    "Pasted image 20251002114822.png",
-    "Pasted image 20250925124035.png"
+    "Pasted image 20251002123436.png"
   ]
 }
