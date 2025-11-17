@@ -1,10 +1,10 @@
 Let's categorizes various policy instruments for [[Sustainability]]!
 
-1. Institutional Approaches - servile policy 
-	1. Property Rights, [[Coase Theorem]] - use permits to establish rights to use resources
+1. Institutional Approaches - servile policy
+	1. [[Coase Theorem|Property Rights]] - use permits to establish rights to use natural resources
 		1. Coase Theorem is not good with dealing with large scales to do its probably with equity.
 		2. Strict Liability and Negligence Liability
-	2. Liability Laws, [[Strict and Negligent Liability]]
+	2. [[Strict and Negligent Liability|Liability Laws]] - 
 	3. [[Biodiversity Offset]]
 	4. Education and Social Conventions
 2. Command and Control Instruments - old school "makes the most sense" solution
@@ -22,4 +22,4 @@ Let's categorizes various policy instruments for [[Sustainability]]!
 	4. Emission (abatement) Subsidies
 	5. [[Cap and Trade]] (Tradable Permits for Pollution omg the best one)
 
-#Unit 
+#Unit #susPolicy 
