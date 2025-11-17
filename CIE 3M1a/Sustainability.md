@@ -2,9 +2,9 @@
 -The World Commisssion on Environment and Development
 
 It's so clear cut, that economists approach it in only a million ways.
-- [[Outcome Approach]]
+- [[Outcome Approach Definition]]
 	- 
-- [[Opportunity Approach]]
+- [[Opportunity Approach Definition]]
 	- [Strong Sustainability] - every form of capital must be maintained
 		- 
 	- [Weak Sustainability] - substitution is okay and shit

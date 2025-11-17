@@ -300,6 +300,13 @@
         "a": 1,
         "rgb": 4960092
       }
+    },
+    {
+      "query": "tag:#review",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
     }
   ],
   "collapse-display": false,
@@ -312,6 +319,6 @@
   "repelStrength": 11.7463617463617,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.9910650748805937,
+  "scale": 0.7851246531270003,
   "close": false
 }

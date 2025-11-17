@@ -20,21 +20,63 @@
             }
           },
           {
-            "id": "6ba6939316c7034e",
+            "id": "597db98d4ffc6760",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Policy Instruments.md",
+                "file": "Emission Taxes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Policy Instruments"
+              "title": "Emission Taxes"
+            }
+          },
+          {
+            "id": "ad91c16253b95ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pigouvian Subsidies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pigouvian Subsidies"
+            }
+          },
+          {
+            "id": "8ec47139a79ae413",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Location Control, Zoning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Location Control, Zoning"
+            }
+          },
+          {
+            "id": "c653d893da41f3c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cap and Trade.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cap and Trade"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -202,17 +244,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ba6939316c7034e",
+  "active": "c653d893da41f3c0",
   "lastOpenFiles": [
-    "Environmental Policy Attributes.md",
+    "Environmental Policies.md",
+    "Cap and Trade.md",
+    "Emission Taxes.md",
+    "Pigouvian Subsidies.md",
+    "Location Control, Zoning.md",
+    "Non-Transferable Emissions Permits.md",
+    "Pasted image 20251113120328.png",
+    "Pigouvian Taxes.md",
+    "Pollutant Dispersion.md",
+    "Biodiversity Offset.md",
+    "Strict and Negligent Liability.md",
+    "Pasted image 20251106120216.png",
     "Coase Theorem.md",
+    "Environmental Policy Attributes.md",
+    "Opportunity Approach Definition.md",
+    "Outcome Approach Definition.md",
+    "Environmental Protection Agency.md",
     "Least Cost Theorem.md",
+    "Environmental Policy.md",
     "Externality.md",
-    "Policy Instruments.md",
     "Institutional Approaches.md",
     "Pasted image 20251023120507.png",
-    "Environmental Policy.md",
-    "Environmental Protection Agency.md",
     "Pasted image 20251016135947.png",
     "Tragedy of the Commons.md",
     "Freeriding Problem.md",
@@ -221,25 +276,12 @@
     "Public Goods.md",
     "Private Goods.md",
     "Lindahl Equilibrium.md",
-    "Natural Sustainability.md",
-    "Total Fertility Rate.md",
-    "Net National Welfare.md",
-    "Free vs Scarce Goods.md",
-    "Opportunity Approach.md",
-    "Environmental Kuznets Curve.md",
-    "Weak Sustainability.md",
-    "Ecological Economists.md",
-    "Genuine Savings.md",
-    "Hartwick Rule.md",
-    "Inclusive Wealth.md",
     "Pasted image 20251010152826.png",
     "Pasted image 20251010151707.png",
     "Pasted image 20251010145620.png",
     "kuznets-environment-600x450.png",
     "Untitled.base",
     "Pasted image 20251002125851.png",
-    "Pasted image 20251002124809.png",
-    "Pasted image 20251002124422.png",
-    "Pasted image 20251002123436.png"
+    "Pasted image 20251002124809.png"
   ]
 }
