@@ -4,6 +4,41 @@
     "type": "split",
     "children": [
       {
+        "id": "4b84f91c17f21ab5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c99180b29ab56de3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Environmental Policies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Environmental Policies"
+            }
+          },
+          {
+            "id": "14fee987fff04cfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Least Cost Theorem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Least Cost Theorem"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
         "id": "7b578d334cdb80e7",
         "type": "tabs",
         "children": [
@@ -20,35 +55,20 @@
             }
           },
           {
-            "id": "a8955d62336e1270",
+            "id": "d55b44a2d7f37696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Environmental Policies.md",
+                "file": "Pigouvian Tax and Subsidy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Environmental Policies"
-            }
-          },
-          {
-            "id": "110d3292afaa266a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coase Theorem.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Coase Theorem"
+              "title": "Pigouvian Tax and Subsidy"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,21 +236,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "110d3292afaa266a",
+  "active": "14fee987fff04cfb",
   "lastOpenFiles": [
-    "Environmental Policies.md",
     "Coase Theorem.md",
-    "Environmental Policy Attributes.md",
-    "Emission Taxes.md",
-    "Pigouvian Subsidies.md",
-    "Location Control, Zoning.md",
+    "Environmental Policies.md",
     "Cap and Trade.md",
+    "Emission Tax and Abatement Subsidy.md",
+    "Pigouvian Tax and Subsidy.md",
+    "Pasted image 20251117163830.png",
+    "Pasted image 20251117163820.png",
+    "Pasted image 20251117163808.png",
+    "Pasted image 20251117162915.png",
+    "Pasted image 20251117162904.png",
+    "Pigouvian Subsidies.md",
+    "Input restrictions.md",
+    "Location Control, Zoning.md",
     "Non-Transferable Emissions Permits.md",
-    "Pasted image 20251113120328.png",
-    "Pigouvian Taxes.md",
-    "Pollutant Dispersion.md",
+    "Technology requirements.md",
     "Biodiversity Offset.md",
-    "Strict and Negligent Liability.md",
+    "Education and Social Conventions.md",
+    "Environmental Policy Attributes.md",
+    "Liability Laws.md",
+    "Pasted image 20251113120328.png",
+    "Pollutant Dispersion.md",
     "Pasted image 20251106120216.png",
     "Opportunity Approach Definition.md",
     "Outcome Approach Definition.md",
@@ -244,16 +272,7 @@
     "Tragedy of the Commons.md",
     "Freeriding Problem.md",
     "Market Failure.md",
-    "Public Good Markets.md",
-    "Public Goods.md",
-    "Private Goods.md",
-    "Lindahl Equilibrium.md",
     "Pasted image 20251010152826.png",
-    "Pasted image 20251010151707.png",
-    "Pasted image 20251010145620.png",
-    "kuznets-environment-600x450.png",
-    "Untitled.base",
-    "Pasted image 20251002125851.png",
-    "Pasted image 20251002124809.png"
+    "Untitled.base"
   ]
 }

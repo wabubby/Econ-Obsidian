@@ -8,4 +8,8 @@ This policy only works, like all markets if:
 - number of permits matches the emission limit.
 initial allocation of permits does not effect efficiency, as they will cycle around. but there is a time lag. As long as the above thingies hold, which means no monopoly. Ain't nobody can enforce a subscription service for caps.
 
-**PERMITS ARE ONE TIME USE**. Once you pollute they gone. it's not like a permit that grants you a rate of pollution, like I thought. Government reprints and redistributes once a year.
+**PERMITS ARE ONE TIME USE**. Once you pollute they gone. it's not like a permit that grants you a rate of pollution, like I thought. Government reprints and redistributes once a year. Auctions typically work.
+
+Absolutely the best. S tier. Nothing I can say. Although it's very clunky if you don't what you're doing.
+
+#susMarketPolicy 

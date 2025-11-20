@@ -309,10 +309,24 @@
       }
     },
     {
-      "query": "tag:#susPolicy",
+      "query": "tag:#susInstitutionalPolicy",
       "color": {
         "a": 1,
-        "rgb": 5395026
+        "rgb": 10965473
+      }
+    },
+    {
+      "query": "tag:#susCommandPolicy",
+      "color": {
+        "a": 1,
+        "rgb": 13717985
+      }
+    },
+    {
+      "query": "tag:#susMarketPolicy",
+      "color": {
+        "a": 1,
+        "rgb": 14827703
       }
     }
   ],
@@ -326,6 +340,6 @@
   "repelStrength": 11.7463617463617,
   "linkStrength": 1,
   "linkDistance": 96,
-  "scale": 0.7687182554832053,
+  "scale": 0.7687182554832083,
   "close": false
 }
